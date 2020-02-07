@@ -1,0 +1,1436 @@
+[
+  {
+    "message": "Avoid “just”, it's not helpful",
+    "name": "41:9-41:13",
+    "reason": "Avoid “just”, it's not helpful",
+    "line": 41,
+    "column": 9,
+    "location": {
+      "start": {
+        "line": 41,
+        "column": 9,
+        "offset": 855
+      },
+      "end": {
+        "line": 41,
+        "column": 13,
+        "offset": 859
+      }
+    },
+    "source": "retext-assuming",
+    "ruleId": "no-just",
+    "fatal": null
+  },
+  {
+    "message": "Avoid “simply”, it's not helpful",
+    "name": "42:15-42:21",
+    "reason": "Avoid “simply”, it's not helpful",
+    "line": 42,
+    "column": 15,
+    "location": {
+      "start": {
+        "line": 42,
+        "column": 15,
+        "offset": 896
+      },
+      "end": {
+        "line": 42,
+        "column": 21,
+        "offset": 902
+      }
+    },
+    "source": "retext-assuming",
+    "ruleId": "no-simply",
+    "fatal": null
+  },
+  {
+    "message": "Avoid “Obviously”, it's not helpful",
+    "name": "43:1-43:10",
+    "reason": "Avoid “Obviously”, it's not helpful",
+    "line": 43,
+    "column": 1,
+    "location": {
+      "start": {
+        "line": 43,
+        "column": 1,
+        "offset": 915
+      },
+      "end": {
+        "line": 43,
+        "column": 10,
+        "offset": 924
+      }
+    },
+    "source": "retext-assuming",
+    "ruleId": "no-obviously",
+    "fatal": null
+  },
+  {
+    "message": "Avoid “Actually”, it's not helpful",
+    "name": "44:1-44:9",
+    "reason": "Avoid “Actually”, it's not helpful",
+    "line": 44,
+    "column": 1,
+    "location": {
+      "start": {
+        "line": 44,
+        "column": 1,
+        "offset": 952
+      },
+      "end": {
+        "line": 44,
+        "column": 9,
+        "offset": 960
+      }
+    },
+    "source": "retext-assuming",
+    "ruleId": "no-actually",
+    "fatal": null
+  },
+  {
+    "message": "Avoid “easy”, it's not helpful",
+    "name": "44:22-44:26",
+    "reason": "Avoid “easy”, it's not helpful",
+    "line": 44,
+    "column": 22,
+    "location": {
+      "start": {
+        "line": 44,
+        "column": 22,
+        "offset": 973
+      },
+      "end": {
+        "line": 44,
+        "column": 26,
+        "offset": 977
+      }
+    },
+    "source": "retext-assuming",
+    "ruleId": "no-easy",
+    "fatal": null
+  },
+  {
+    "message": "Warning: “until the cows come home” is a cliche",
+    "name": "36:31-36:55",
+    "reason": "Warning: “until the cows come home” is a cliche",
+    "line": 36,
+    "column": 31,
+    "location": {
+      "start": {
+        "line": 36,
+        "column": 31,
+        "offset": 750
+      },
+      "end": {
+        "line": 36,
+        "column": 55,
+        "offset": 774
+      }
+    },
+    "source": "retext-cliche",
+    "ruleId": null,
+    "fatal": null,
+    "cliche": "until the cows come home"
+  },
+  {
+    "message": "Warning: “broken record” is a cliche",
+    "name": "38:27-38:40",
+    "reason": "Warning: “broken record” is a cliche",
+    "line": 38,
+    "column": 27,
+    "location": {
+      "start": {
+        "line": 38,
+        "column": 27,
+        "offset": 830
+      },
+      "end": {
+        "line": 38,
+        "column": 40,
+        "offset": 843
+      }
+    },
+    "source": "retext-cliche",
+    "ruleId": null,
+    "fatal": null,
+    "cliche": "broken record"
+  },
+  {
+    "message": "Expected the apostrophe in `does’nt` to be like this: `doesn’t`",
+    "name": "33:10-33:17",
+    "reason": "Expected the apostrophe in `does’nt` to be like this: `doesn’t`",
+    "line": 33,
+    "column": 10,
+    "location": {
+      "start": {
+        "line": 33,
+        "column": 10,
+        "offset": 663
+      },
+      "end": {
+        "line": 33,
+        "column": 17,
+        "offset": 670
+      }
+    },
+    "source": "retext-contractions",
+    "ruleId": "straight-apostrophe",
+    "fatal": false,
+    "actual": "does’nt",
+    "expected": [
+      "doesn’t"
+    ]
+  },
+  {
+    "message": "Expected an apostrophe in `yall`, like this: `y’all`",
+    "name": "33:36-33:40",
+    "reason": "Expected an apostrophe in `yall`, like this: `y’all`",
+    "line": 33,
+    "column": 36,
+    "location": {
+      "start": {
+        "line": 33,
+        "column": 36,
+        "offset": 689
+      },
+      "end": {
+        "line": 33,
+        "column": 40,
+        "offset": 693
+      }
+    },
+    "source": "retext-contractions",
+    "ruleId": "missing-smart-apostrophe",
+    "fatal": false,
+    "actual": "yall",
+    "expected": [
+      "y’all"
+    ]
+  },
+  {
+    "message": "Expected an apostrophe in `isnt`, like this: `isn’t`",
+    "name": "33:45-33:49",
+    "reason": "Expected an apostrophe in `isnt`, like this: `isn’t`",
+    "line": 33,
+    "column": 45,
+    "location": {
+      "start": {
+        "line": 33,
+        "column": 45,
+        "offset": 698
+      },
+      "end": {
+        "line": 33,
+        "column": 49,
+        "offset": 702
+      }
+    },
+    "source": "retext-contractions",
+    "ruleId": "missing-smart-apostrophe",
+    "fatal": false,
+    "actual": "isnt",
+    "expected": [
+      "isn’t"
+    ]
+  },
+  {
+    "message": "`dwarf` may be insensitive, use `person with dwarfism`, `little person`, `little people`, `LP`, `person of short stature` instead",
+    "name": "9:46-9:51",
+    "reason": "`dwarf` may be insensitive, use `person with dwarfism`, `little person`, `little people`, `LP`, `person of short stature` instead",
+    "line": 9,
+    "column": 46,
+    "location": {
+      "start": {
+        "line": 9,
+        "column": 46,
+        "offset": 218
+      },
+      "end": {
+        "line": 9,
+        "column": 51,
+        "offset": 223
+      }
+    },
+    "source": "retext-equality",
+    "ruleId": "dwarf",
+    "fatal": false,
+    "note": "Source: https://ncdj.org/style-guide/,https://www.lpaonline.org/faq-#Midget"
+  },
+  {
+    "message": "`He` may be insensitive, use `They`, `It` instead",
+    "name": "13:1-13:3",
+    "reason": "`He` may be insensitive, use `They`, `It` instead",
+    "line": 13,
+    "column": 1,
+    "location": {
+      "start": {
+        "line": 13,
+        "column": 1,
+        "offset": 287
+      },
+      "end": {
+        "line": 13,
+        "column": 3,
+        "offset": 289
+      }
+    },
+    "source": "retext-equality",
+    "ruleId": "he-she",
+    "fatal": false
+  },
+  {
+    "message": "`boy` may be insensitive, when referring to a person, use `kid`, `child`, `youth` instead",
+    "name": "25:25-25:28",
+    "reason": "`boy` may be insensitive, when referring to a person, use `kid`, `child`, `youth` instead",
+    "line": 25,
+    "column": 25,
+    "location": {
+      "start": {
+        "line": 25,
+        "column": 25,
+        "offset": 485
+      },
+      "end": {
+        "line": 25,
+        "column": 28,
+        "offset": 488
+      }
+    },
+    "source": "retext-equality",
+    "ruleId": "boy-girl",
+    "fatal": false
+  },
+  {
+    "message": "`He` may be insensitive, use `They`, `It` instead",
+    "name": "25:1-25:3",
+    "reason": "`He` may be insensitive, use `They`, `It` instead",
+    "line": 25,
+    "column": 1,
+    "location": {
+      "start": {
+        "line": 25,
+        "column": 1,
+        "offset": 461
+      },
+      "end": {
+        "line": 25,
+        "column": 3,
+        "offset": 463
+      }
+    },
+    "source": "retext-equality",
+    "ruleId": "he-she",
+    "fatal": false
+  },
+  {
+    "message": "`He’s` may be insensitive, use `They`, `It` instead",
+    "name": "30:1-30:5",
+    "reason": "`He’s` may be insensitive, use `They`, `It` instead",
+    "line": 30,
+    "column": 1,
+    "location": {
+      "start": {
+        "line": 30,
+        "column": 1,
+        "offset": 602
+      },
+      "end": {
+        "line": 30,
+        "column": 5,
+        "offset": 606
+      }
+    },
+    "source": "retext-equality",
+    "ruleId": "he-she",
+    "fatal": false
+  },
+  {
+    "message": "`just` may be insensitive, try not to use it",
+    "name": "41:9-41:13",
+    "reason": "`just` may be insensitive, try not to use it",
+    "line": 41,
+    "column": 9,
+    "location": {
+      "start": {
+        "line": 41,
+        "column": 9,
+        "offset": 855
+      },
+      "end": {
+        "line": 41,
+        "column": 13,
+        "offset": 859
+      }
+    },
+    "source": "retext-equality",
+    "ruleId": "just",
+    "fatal": false,
+    "note": "Not everything is as easy as you might think. And if it isn’t easy for the reader, it can hurt. (source: https://css-tricks.com/words-avoid-educational-writing/)"
+  },
+  {
+    "message": "`simply` may be insensitive, try not to use it",
+    "name": "42:15-42:21",
+    "reason": "`simply` may be insensitive, try not to use it",
+    "line": 42,
+    "column": 15,
+    "location": {
+      "start": {
+        "line": 42,
+        "column": 15,
+        "offset": 896
+      },
+      "end": {
+        "line": 42,
+        "column": 21,
+        "offset": 902
+      }
+    },
+    "source": "retext-equality",
+    "ruleId": "simple",
+    "fatal": false,
+    "note": "It’s probably not that simple. Even if it is, you probably don’t need to specifically say it. (source: https://css-tricks.com/words-avoid-educational-writing/)"
+  },
+  {
+    "message": "`Obviously` may be insensitive, try not to use it",
+    "name": "43:1-43:10",
+    "reason": "`Obviously` may be insensitive, try not to use it",
+    "line": 43,
+    "column": 1,
+    "location": {
+      "start": {
+        "line": 43,
+        "column": 1,
+        "offset": 915
+      },
+      "end": {
+        "line": 43,
+        "column": 10,
+        "offset": 924
+      }
+    },
+    "source": "retext-equality",
+    "ruleId": "obvious",
+    "fatal": false,
+    "note": "Not everything is as obvious as you might think. And if it isn’t obvious to the reader, it can hurt. (source: https://css-tricks.com/words-avoid-educational-writing/)"
+  },
+  {
+    "message": "`easy` may be insensitive, try not to use it",
+    "name": "44:22-44:26",
+    "reason": "`easy` may be insensitive, try not to use it",
+    "line": 44,
+    "column": 22,
+    "location": {
+      "start": {
+        "line": 44,
+        "column": 22,
+        "offset": 973
+      },
+      "end": {
+        "line": 44,
+        "column": 26,
+        "offset": 977
+      }
+    },
+    "source": "retext-equality",
+    "ruleId": "easy",
+    "fatal": false,
+    "note": "It’s probably not that easy. Even if it is, you probably don’t need to specifically say it. (source: https://css-tricks.com/words-avoid-educational-writing/)"
+  },
+  {
+    "message": "Use `an` before `8-year`, not `a`",
+    "name": "25:12-25:13",
+    "reason": "Use `an` before `8-year`, not `a`",
+    "line": 25,
+    "column": 12,
+    "location": {
+      "start": {
+        "line": 25,
+        "column": 12,
+        "offset": 472
+      },
+      "end": {
+        "line": 25,
+        "column": 13,
+        "offset": 473
+      }
+    },
+    "source": "retext-indefinite-article",
+    "ruleId": "retext-indefinite-article",
+    "fatal": false,
+    "actual": "a",
+    "expected": [
+      "an"
+    ]
+  },
+  {
+    "message": "Use `an` before `hour`, not `a`",
+    "name": "25:50-25:51",
+    "reason": "Use `an` before `hour`, not `a`",
+    "line": 25,
+    "column": 50,
+    "location": {
+      "start": {
+        "line": 25,
+        "column": 50,
+        "offset": 510
+      },
+      "end": {
+        "line": 25,
+        "column": 51,
+        "offset": 511
+      }
+    },
+    "source": "retext-indefinite-article",
+    "ruleId": "retext-indefinite-article",
+    "fatal": false,
+    "actual": "a",
+    "expected": [
+      "an"
+    ]
+  },
+  {
+    "message": "Use `a` before `European`, not `an`",
+    "name": "26:8-26:10",
+    "reason": "Use `a` before `European`, not `an`",
+    "line": 26,
+    "column": 8,
+    "location": {
+      "start": {
+        "line": 26,
+        "column": 8,
+        "offset": 524
+      },
+      "end": {
+        "line": 26,
+        "column": 10,
+        "offset": 526
+      }
+    },
+    "source": "retext-indefinite-article",
+    "ruleId": "retext-indefinite-article",
+    "fatal": false,
+    "actual": "an",
+    "expected": [
+      "a"
+    ]
+  },
+  {
+    "message": "Don’t use `can`, it lessens impact",
+    "name": "1:5-1:8",
+    "reason": "Don’t use `can`, it lessens impact",
+    "line": 1,
+    "column": 5,
+    "location": {
+      "start": {
+        "line": 1,
+        "column": 5,
+        "offset": 4
+      },
+      "end": {
+        "line": 1,
+        "column": 8,
+        "offset": 7
+      }
+    },
+    "source": "retext-intensify",
+    "ruleId": "hedge",
+    "fatal": false,
+    "actual": "can",
+    "expected": []
+  },
+  {
+    "message": "Don’t use `also`, it’s vague or ambiguous",
+    "name": "8:19-8:23",
+    "reason": "Don’t use `also`, it’s vague or ambiguous",
+    "line": 8,
+    "column": 19,
+    "location": {
+      "start": {
+        "line": 8,
+        "column": 19,
+        "offset": 139
+      },
+      "end": {
+        "line": 8,
+        "column": 23,
+        "offset": 143
+      }
+    },
+    "source": "retext-intensify",
+    "ruleId": "weasel",
+    "fatal": false,
+    "actual": "also",
+    "expected": []
+  },
+  {
+    "message": "Don’t use `That`, it’s vague or ambiguous",
+    "name": "16:1-16:5",
+    "reason": "Don’t use `That`, it’s vague or ambiguous",
+    "line": 16,
+    "column": 1,
+    "location": {
+      "start": {
+        "line": 16,
+        "column": 1,
+        "offset": 330
+      },
+      "end": {
+        "line": 16,
+        "column": 5,
+        "offset": 334
+      }
+    },
+    "source": "retext-intensify",
+    "ruleId": "weasel",
+    "fatal": false,
+    "actual": "That",
+    "expected": []
+  },
+  {
+    "message": "Don’t use `amazing`, it doesn’t add meaning",
+    "name": "16:16-16:23",
+    "reason": "Don’t use `amazing`, it doesn’t add meaning",
+    "line": 16,
+    "column": 16,
+    "location": {
+      "start": {
+        "line": 16,
+        "column": 16,
+        "offset": 345
+      },
+      "end": {
+        "line": 16,
+        "column": 23,
+        "offset": 352
+      }
+    },
+    "source": "retext-intensify",
+    "ruleId": "filler",
+    "fatal": false,
+    "actual": "amazing",
+    "expected": []
+  },
+  {
+    "message": "Don’t use `amazing`, it doesn’t add meaning",
+    "name": "17:16-17:23",
+    "reason": "Don’t use `amazing`, it doesn’t add meaning",
+    "line": 17,
+    "column": 16,
+    "location": {
+      "start": {
+        "line": 17,
+        "column": 16,
+        "offset": 368
+      },
+      "end": {
+        "line": 17,
+        "column": 23,
+        "offset": 375
+      }
+    },
+    "source": "retext-intensify",
+    "ruleId": "filler",
+    "fatal": false,
+    "actual": "amazing",
+    "expected": []
+  },
+  {
+    "message": "Don’t use `amazing`, it doesn’t add meaning",
+    "name": "18:15-18:22",
+    "reason": "Don’t use `amazing`, it doesn’t add meaning",
+    "line": 18,
+    "column": 15,
+    "location": {
+      "start": {
+        "line": 18,
+        "column": 15,
+        "offset": 390
+      },
+      "end": {
+        "line": 18,
+        "column": 22,
+        "offset": 397
+      }
+    },
+    "source": "retext-intensify",
+    "ruleId": "filler",
+    "fatal": false,
+    "actual": "amazing",
+    "expected": []
+  },
+  {
+    "message": "Don’t use `Some`, it’s vague or ambiguous",
+    "name": "21:1-21:5",
+    "reason": "Don’t use `Some`, it’s vague or ambiguous",
+    "line": 21,
+    "column": 1,
+    "location": {
+      "start": {
+        "line": 21,
+        "column": 1,
+        "offset": 400
+      },
+      "end": {
+        "line": 21,
+        "column": 5,
+        "offset": 404
+      }
+    },
+    "source": "retext-intensify",
+    "ruleId": "weasel",
+    "fatal": false,
+    "actual": "Some",
+    "expected": []
+  },
+  {
+    "message": "Don’t use `say`, it lessens impact",
+    "name": "21:13-21:16",
+    "reason": "Don’t use `say`, it lessens impact",
+    "line": 21,
+    "column": 13,
+    "location": {
+      "start": {
+        "line": 21,
+        "column": 13,
+        "offset": 412
+      },
+      "end": {
+        "line": 21,
+        "column": 16,
+        "offset": 415
+      }
+    },
+    "source": "retext-intensify",
+    "ruleId": "hedge",
+    "fatal": false,
+    "actual": "say",
+    "expected": []
+  },
+  {
+    "message": "Don’t use `quite`, it’s vague or ambiguous",
+    "name": "21:27-21:32",
+    "reason": "Don’t use `quite`, it’s vague or ambiguous",
+    "line": 21,
+    "column": 27,
+    "location": {
+      "start": {
+        "line": 21,
+        "column": 27,
+        "offset": 426
+      },
+      "end": {
+        "line": 21,
+        "column": 32,
+        "offset": 431
+      }
+    },
+    "source": "retext-intensify",
+    "ruleId": "weasel",
+    "fatal": false,
+    "actual": "quite",
+    "expected": []
+  },
+  {
+    "message": "Don’t use `some`, it’s vague or ambiguous",
+    "name": "21:33-21:37",
+    "reason": "Don’t use `some`, it’s vague or ambiguous",
+    "line": 21,
+    "column": 33,
+    "location": {
+      "start": {
+        "line": 21,
+        "column": 33,
+        "offset": 432
+      },
+      "end": {
+        "line": 21,
+        "column": 37,
+        "offset": 436
+      }
+    },
+    "source": "retext-intensify",
+    "ruleId": "weasel",
+    "fatal": false,
+    "actual": "some",
+    "expected": []
+  },
+  {
+    "message": "Don’t use `apparently`, it doesn’t add meaning",
+    "name": "22:11-22:21",
+    "reason": "Don’t use `apparently`, it doesn’t add meaning",
+    "line": 22,
+    "column": 11,
+    "location": {
+      "start": {
+        "line": 22,
+        "column": 11,
+        "offset": 447
+      },
+      "end": {
+        "line": 22,
+        "column": 21,
+        "offset": 457
+      }
+    },
+    "source": "retext-intensify",
+    "ruleId": "filler",
+    "fatal": false,
+    "actual": "apparently",
+    "expected": []
+  },
+  {
+    "message": "Don’t use `should`, it lessens impact",
+    "name": "25:4-25:10",
+    "reason": "Don’t use `should`, it lessens impact",
+    "line": 25,
+    "column": 4,
+    "location": {
+      "start": {
+        "line": 25,
+        "column": 4,
+        "offset": 464
+      },
+      "end": {
+        "line": 25,
+        "column": 10,
+        "offset": 470
+      }
+    },
+    "source": "retext-intensify",
+    "ruleId": "hedge",
+    "fatal": false,
+    "actual": "should",
+    "expected": []
+  },
+  {
+    "message": "Don’t use `should`, it lessens impact",
+    "name": "25:30-25:36",
+    "reason": "Don’t use `should`, it lessens impact",
+    "line": 25,
+    "column": 30,
+    "location": {
+      "start": {
+        "line": 25,
+        "column": 30,
+        "offset": 490
+      },
+      "end": {
+        "line": 25,
+        "column": 36,
+        "offset": 496
+      }
+    },
+    "source": "retext-intensify",
+    "ruleId": "hedge",
+    "fatal": false,
+    "actual": "should",
+    "expected": []
+  },
+  {
+    "message": "Don’t use `pretty`, it’s vague or ambiguous",
+    "name": "30:6-30:12",
+    "reason": "Don’t use `pretty`, it’s vague or ambiguous",
+    "line": 30,
+    "column": 6,
+    "location": {
+      "start": {
+        "line": 30,
+        "column": 6,
+        "offset": 607
+      },
+      "end": {
+        "line": 30,
+        "column": 12,
+        "offset": 613
+      }
+    },
+    "source": "retext-intensify",
+    "ruleId": "weasel",
+    "fatal": false,
+    "actual": "pretty",
+    "expected": []
+  },
+  {
+    "message": "Don’t use `Well`, it’s vague or ambiguous",
+    "name": "33:1-33:5",
+    "reason": "Don’t use `Well`, it’s vague or ambiguous",
+    "line": 33,
+    "column": 1,
+    "location": {
+      "start": {
+        "line": 33,
+        "column": 1,
+        "offset": 654
+      },
+      "end": {
+        "line": 33,
+        "column": 5,
+        "offset": 658
+      }
+    },
+    "source": "retext-intensify",
+    "ruleId": "weasel",
+    "fatal": false,
+    "actual": "Well",
+    "expected": []
+  },
+  {
+    "message": "Don’t use `so`, it’s vague or ambiguous",
+    "name": "33:29-33:31",
+    "reason": "Don’t use `so`, it’s vague or ambiguous",
+    "line": 33,
+    "column": 29,
+    "location": {
+      "start": {
+        "line": 33,
+        "column": 29,
+        "offset": 682
+      },
+      "end": {
+        "line": 33,
+        "column": 31,
+        "offset": 684
+      }
+    },
+    "source": "retext-intensify",
+    "ruleId": "weasel",
+    "fatal": false,
+    "actual": "so",
+    "expected": []
+  },
+  {
+    "message": "Don’t use `like`, it’s vague or ambiguous",
+    "name": "33:50-33:54",
+    "reason": "Don’t use `like`, it’s vague or ambiguous",
+    "line": 33,
+    "column": 50,
+    "location": {
+      "start": {
+        "line": 33,
+        "column": 50,
+        "offset": 703
+      },
+      "end": {
+        "line": 33,
+        "column": 54,
+        "offset": 707
+      }
+    },
+    "source": "retext-intensify",
+    "ruleId": "weasel",
+    "fatal": false,
+    "actual": "like",
+    "expected": []
+  },
+  {
+    "message": "Don’t use `can`, it lessens impact",
+    "name": "36:5-36:8",
+    "reason": "Don’t use `can`, it lessens impact",
+    "line": 36,
+    "column": 5,
+    "location": {
+      "start": {
+        "line": 36,
+        "column": 5,
+        "offset": 724
+      },
+      "end": {
+        "line": 36,
+        "column": 8,
+        "offset": 727
+      }
+    },
+    "source": "retext-intensify",
+    "ruleId": "hedge",
+    "fatal": false,
+    "actual": "can",
+    "expected": []
+  },
+  {
+    "message": "Don’t use `will`, it lessens impact",
+    "name": "38:9-38:13",
+    "reason": "Don’t use `will`, it lessens impact",
+    "line": 38,
+    "column": 9,
+    "location": {
+      "start": {
+        "line": 38,
+        "column": 9,
+        "offset": 812
+      },
+      "end": {
+        "line": 38,
+        "column": 13,
+        "offset": 816
+      }
+    },
+    "source": "retext-intensify",
+    "ruleId": "hedge",
+    "fatal": false,
+    "actual": "will",
+    "expected": []
+  },
+  {
+    "message": "Don’t use `like`, it’s vague or ambiguous",
+    "name": "38:20-38:24",
+    "reason": "Don’t use `like`, it’s vague or ambiguous",
+    "line": 38,
+    "column": 20,
+    "location": {
+      "start": {
+        "line": 38,
+        "column": 20,
+        "offset": 823
+      },
+      "end": {
+        "line": 38,
+        "column": 24,
+        "offset": 827
+      }
+    },
+    "source": "retext-intensify",
+    "ruleId": "weasel",
+    "fatal": false,
+    "actual": "like",
+    "expected": []
+  },
+  {
+    "message": "Don’t use `can`, it lessens impact",
+    "name": "41:5-41:8",
+    "reason": "Don’t use `can`, it lessens impact",
+    "line": 41,
+    "column": 5,
+    "location": {
+      "start": {
+        "line": 41,
+        "column": 5,
+        "offset": 851
+      },
+      "end": {
+        "line": 41,
+        "column": 8,
+        "offset": 854
+      }
+    },
+    "source": "retext-intensify",
+    "ruleId": "hedge",
+    "fatal": false,
+    "actual": "can",
+    "expected": []
+  },
+  {
+    "message": "Don’t use `just`, it’s vague or ambiguous",
+    "name": "41:9-41:13",
+    "reason": "Don’t use `just`, it’s vague or ambiguous",
+    "line": 41,
+    "column": 9,
+    "location": {
+      "start": {
+        "line": 41,
+        "column": 9,
+        "offset": 855
+      },
+      "end": {
+        "line": 41,
+        "column": 13,
+        "offset": 859
+      }
+    },
+    "source": "retext-intensify",
+    "ruleId": "weasel",
+    "fatal": false,
+    "actual": "just",
+    "expected": []
+  },
+  {
+    "message": "Don’t use `simply`, it doesn’t add meaning",
+    "name": "42:15-42:21",
+    "reason": "Don’t use `simply`, it doesn’t add meaning",
+    "line": 42,
+    "column": 15,
+    "location": {
+      "start": {
+        "line": 42,
+        "column": 15,
+        "offset": 896
+      },
+      "end": {
+        "line": 42,
+        "column": 21,
+        "offset": 902
+      }
+    },
+    "source": "retext-intensify",
+    "ruleId": "filler",
+    "fatal": false,
+    "actual": "simply",
+    "expected": []
+  },
+  {
+    "message": "Don’t use `Obviously`, it doesn’t add meaning",
+    "name": "43:1-43:10",
+    "reason": "Don’t use `Obviously`, it doesn’t add meaning",
+    "line": 43,
+    "column": 1,
+    "location": {
+      "start": {
+        "line": 43,
+        "column": 1,
+        "offset": 915
+      },
+      "end": {
+        "line": 43,
+        "column": 10,
+        "offset": 924
+      }
+    },
+    "source": "retext-intensify",
+    "ruleId": "filler",
+    "fatal": false,
+    "actual": "Obviously",
+    "expected": []
+  },
+  {
+    "message": "Don’t use `would`, it lessens impact",
+    "name": "43:15-43:20",
+    "reason": "Don’t use `would`, it lessens impact",
+    "line": 43,
+    "column": 15,
+    "location": {
+      "start": {
+        "line": 43,
+        "column": 15,
+        "offset": 929
+      },
+      "end": {
+        "line": 43,
+        "column": 20,
+        "offset": 934
+      }
+    },
+    "source": "retext-intensify",
+    "ruleId": "hedge",
+    "fatal": false,
+    "actual": "would",
+    "expected": []
+  },
+  {
+    "message": "Don’t use `Actually`, it doesn’t add meaning",
+    "name": "44:1-44:9",
+    "reason": "Don’t use `Actually`, it doesn’t add meaning",
+    "line": 44,
+    "column": 1,
+    "location": {
+      "start": {
+        "line": 44,
+        "column": 1,
+        "offset": 952
+      },
+      "end": {
+        "line": 44,
+        "column": 9,
+        "offset": 960
+      }
+    },
+    "source": "retext-intensify",
+    "ruleId": "filler",
+    "fatal": false,
+    "actual": "Actually",
+    "expected": []
+  },
+  {
+    "message": "Don’t use `quite`, it’s vague or ambiguous",
+    "name": "44:16-44:21",
+    "reason": "Don’t use `quite`, it’s vague or ambiguous",
+    "line": 44,
+    "column": 16,
+    "location": {
+      "start": {
+        "line": 44,
+        "column": 16,
+        "offset": 967
+      },
+      "end": {
+        "line": 44,
+        "column": 21,
+        "offset": 972
+      }
+    },
+    "source": "retext-intensify",
+    "ruleId": "weasel",
+    "fatal": false,
+    "actual": "quite",
+    "expected": []
+  },
+  {
+    "message": "Replace “amazing” with “astonishing”, “surprising”, “awe-inspiring”, “awesome”, “awful”, “awing”, “impressive”",
+    "name": "16:16-16:23",
+    "reason": "Replace “amazing” with “astonishing”, “surprising”, “awe-inspiring”, “awesome”, “awful”, “awing”, “impressive”",
+    "line": 16,
+    "column": 16,
+    "location": {
+      "start": {
+        "line": 16,
+        "column": 16,
+        "offset": 345
+      },
+      "end": {
+        "line": 16,
+        "column": 23,
+        "offset": 352
+      }
+    },
+    "source": "retext-overuse",
+    "ruleId": "amazing",
+    "fatal": null,
+    "actual": "amazing",
+    "expected": [
+      "astonishing",
+      "surprising",
+      "awe-inspiring",
+      "awesome",
+      "awful",
+      "awing",
+      "impressive"
+    ]
+  },
+  {
+    "message": "Replace “amazing” with “astonishing”, “surprising”, “awe-inspiring”, “awesome”, “awful”, “awing”, “impressive”",
+    "name": "17:16-17:23",
+    "reason": "Replace “amazing” with “astonishing”, “surprising”, “awe-inspiring”, “awesome”, “awful”, “awing”, “impressive”",
+    "line": 17,
+    "column": 16,
+    "location": {
+      "start": {
+        "line": 17,
+        "column": 16,
+        "offset": 368
+      },
+      "end": {
+        "line": 17,
+        "column": 23,
+        "offset": 375
+      }
+    },
+    "source": "retext-overuse",
+    "ruleId": "amazing",
+    "fatal": null,
+    "actual": "amazing",
+    "expected": [
+      "astonishing",
+      "surprising",
+      "awe-inspiring",
+      "awesome",
+      "awful",
+      "awing",
+      "impressive"
+    ]
+  },
+  {
+    "message": "Replace “amazing” with “astonishing”, “surprising”, “awe-inspiring”, “awesome”, “awful”, “awing”, “impressive”",
+    "name": "18:15-18:22",
+    "reason": "Replace “amazing” with “astonishing”, “surprising”, “awe-inspiring”, “awesome”, “awful”, “awing”, “impressive”",
+    "line": 18,
+    "column": 15,
+    "location": {
+      "start": {
+        "line": 18,
+        "column": 15,
+        "offset": 390
+      },
+      "end": {
+        "line": 18,
+        "column": 22,
+        "offset": 397
+      }
+    },
+    "source": "retext-overuse",
+    "ruleId": "amazing",
+    "fatal": null,
+    "actual": "amazing",
+    "expected": [
+      "astonishing",
+      "surprising",
+      "awe-inspiring",
+      "awesome",
+      "awful",
+      "awing",
+      "impressive"
+    ]
+  },
+  {
+    "message": "Don’t use the passive voice",
+    "name": "13:8-13:16",
+    "reason": "Don’t use the passive voice",
+    "line": 13,
+    "column": 8,
+    "location": {
+      "start": {
+        "line": 13,
+        "column": 8,
+        "offset": 294
+      },
+      "end": {
+        "line": 13,
+        "column": 16,
+        "offset": 302
+      }
+    },
+    "source": "retext-passive",
+    "ruleId": "withheld",
+    "fatal": false,
+    "actual": "withheld",
+    "expected": []
+  },
+  {
+    "message": "Don’t use the passive voice",
+    "name": "13:37-13:40",
+    "reason": "Don’t use the passive voice",
+    "line": 13,
+    "column": 37,
+    "location": {
+      "start": {
+        "line": 13,
+        "column": 37,
+        "offset": 323
+      },
+      "end": {
+        "line": 13,
+        "column": 40,
+        "offset": 326
+      }
+    },
+    "source": "retext-passive",
+    "ruleId": "fed",
+    "fatal": false,
+    "actual": "fed",
+    "expected": []
+  },
+  {
+    "message": "Replace `utilize` with `use`",
+    "name": "1:9-1:16",
+    "reason": "Replace `utilize` with `use`",
+    "line": 1,
+    "column": 9,
+    "location": {
+      "start": {
+        "line": 1,
+        "column": 9,
+        "offset": 8
+      },
+      "end": {
+        "line": 1,
+        "column": 16,
+        "offset": 15
+      }
+    },
+    "source": "retext-simplify",
+    "ruleId": "utilize",
+    "fatal": false,
+    "actual": "utilize",
+    "expected": [
+      "use"
+    ]
+  },
+  {
+    "message": "Remove `Be advised`",
+    "name": "2:1-2:11",
+    "reason": "Remove `Be advised`",
+    "line": 2,
+    "column": 1,
+    "location": {
+      "start": {
+        "line": 2,
+        "column": 1,
+        "offset": 32
+      },
+      "end": {
+        "line": 2,
+        "column": 11,
+        "offset": 42
+      }
+    },
+    "source": "retext-simplify",
+    "ruleId": "be-advised",
+    "fatal": false,
+    "actual": "Be advised",
+    "expected": []
+  },
+  {
+    "message": "Replace `appropriate` with `proper`, `right`, or remove it",
+    "name": "3:12-3:23",
+    "reason": "Replace `appropriate` with `proper`, `right`, or remove it",
+    "line": 3,
+    "column": 12,
+    "location": {
+      "start": {
+        "line": 3,
+        "column": 12,
+        "offset": 70
+      },
+      "end": {
+        "line": 3,
+        "column": 23,
+        "offset": 81
+      }
+    },
+    "source": "retext-simplify",
+    "ruleId": "appropriate",
+    "fatal": false,
+    "actual": "appropriate",
+    "expected": [
+      "proper",
+      "right"
+    ]
+  },
+  {
+    "message": "Replace `contains` with `has`",
+    "name": "8:24-8:32",
+    "reason": "Replace `contains` with `has`",
+    "line": 8,
+    "column": 24,
+    "location": {
+      "start": {
+        "line": 8,
+        "column": 24,
+        "offset": 144
+      },
+      "end": {
+        "line": 8,
+        "column": 32,
+        "offset": 152
+      }
+    },
+    "source": "retext-simplify",
+    "ruleId": "contains",
+    "fatal": false,
+    "actual": "contains",
+    "expected": [
+      "has"
+    ]
+  },
+  {
+    "message": "Remove `there are`",
+    "name": "21:17-21:26",
+    "reason": "Remove `there are`",
+    "line": 21,
+    "column": 17,
+    "location": {
+      "start": {
+        "line": 21,
+        "column": 17,
+        "offset": 416
+      },
+      "end": {
+        "line": 21,
+        "column": 26,
+        "offset": 425
+      }
+    },
+    "source": "retext-simplify",
+    "ruleId": "there-are",
+    "fatal": false,
+    "actual": "there are",
+    "expected": []
+  }
+]
