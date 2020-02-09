@@ -126,6 +126,11 @@ async@^2.1.4:
   dependencies:
     lodash "^4.17.14"
 
+automated-readability@^1.0.0:
+  version "1.0.5"
+  resolved "https://registry.yarnpkg.com/automated-readability/-/automated-readability-1.0.5.tgz#c00dab2db74db6e4945ca065ee6bd3aaea0b50df"
+  integrity sha512-N6mr0nUS0TB+SLHCrDYzLIdJQ1wklXNhsiKYh6tcrjDMlhjfz6BFGlDvngcpcBvZpko10jVjvF5XziJOxyA9Sg==
+
 babel-code-frame@^6.26.0:
   version "6.26.0"
   resolved "https://registry.yarnpkg.com/babel-code-frame/-/babel-code-frame-6.26.0.tgz#63fd43f7dc1e3bb7ce35947db8fe369a3f58c74b"
@@ -288,6 +293,11 @@ cliui@^6.0.0:
     string-width "^4.2.0"
     strip-ansi "^6.0.0"
     wrap-ansi "^6.2.0"
+
+coleman-liau@^1.0.0:
+  version "1.0.5"
+  resolved "https://registry.yarnpkg.com/coleman-liau/-/coleman-liau-1.0.5.tgz#9bc0efacd62a16d22684eadfa4da15c9faf118f8"
+  integrity sha512-g4N/LvbIoGP7cq9E8QGrUWkHnhm9DXP0g1+axHIQnmQq/MwwPbBx5dGxQ0GbY5+ojibsIo1Rg0XuYkF+JPr7sw==
 
 color-convert@^1.9.0:
   version "1.9.3"
@@ -523,6 +533,16 @@ currently-unhandled@^0.4.1:
   dependencies:
     array-find-index "^1.0.1"
 
+dale-chall-formula@^1.0.0:
+  version "1.0.5"
+  resolved "https://registry.yarnpkg.com/dale-chall-formula/-/dale-chall-formula-1.0.5.tgz#b6655b9e8bfe210a4426778eb3349a3b6f55d7ff"
+  integrity sha512-p7f37Bc6HkIUWDj/b/9r76qrXU7/yyR0lnp0Vmj0QjAG54KrFJbE8kVuPHdcKaCbwAFT8yNvCALMaajid/Mkfw==
+
+dale-chall@^1.0.0:
+  version "1.0.4"
+  resolved "https://registry.yarnpkg.com/dale-chall/-/dale-chall-1.0.4.tgz#7811b9119d5813a929f52882210d7a4373a37758"
+  integrity sha512-3Wp5GrsQVxw+KVXfZK9iA6W0jGnkq5uXXQ51Scofb92cbipkRvUZTaeQBr/6rlxdOezkjUGglV1euWIBOGCTRA==
+
 dargs@^4.0.1:
   version "4.1.0"
   resolved "https://registry.yarnpkg.com/dargs/-/dargs-4.1.0.tgz#03a9dbb4b5c2f139bf14ae53f0b8a2a6a86f4e17"
@@ -740,6 +760,11 @@ find-up@^3.0.0:
   dependencies:
     locate-path "^3.0.0"
 
+flesch@^1.0.0:
+  version "1.0.5"
+  resolved "https://registry.yarnpkg.com/flesch/-/flesch-1.0.5.tgz#12dfba0a58d0e2c46044857109d5b78cf0449552"
+  integrity sha512-SE5X7jm4tp7sbKagLB0V9i0SrjWsFovus7db3E1nCyquy5249+Fyh+bBIK2crUuzX4maXn3Tu5bcMw8nF5oU8Q==
+
 for-each@~0.3.3:
   version "0.3.3"
   resolved "https://registry.yarnpkg.com/for-each/-/for-each-0.3.3.tgz#69b447e88a0a5d32c3e7084f3f1710034b21376e"
@@ -845,6 +870,11 @@ graceful-fs@^4.1.2:
   version "4.2.3"
   resolved "https://registry.yarnpkg.com/graceful-fs/-/graceful-fs-4.2.3.tgz#4a12ff1b60376ef09862c2093edd908328be8423"
   integrity sha512-a30VEBm4PEdx1dRB7MFK7BejejvCvBronbLjht+sHuGYj8PHs7M/5Z+rt5lw551vZ7yfTCj4Vuyy3mSJytDWRQ==
+
+gunning-fog@^1.0.0:
+  version "1.0.6"
+  resolved "https://registry.yarnpkg.com/gunning-fog/-/gunning-fog-1.0.6.tgz#a02ecf36966e2573349e86ae105d8150288ce2ce"
+  integrity sha512-yXkDi7mbWTPiITTztwhwXFMhXKnMviX/7kprz92BroMJbB/AgDATrHCRCtc87Ox024pQy2kMCihsm7tPonvV6A==
 
 handlebars@^4.0.3, handlebars@^4.4.0:
   version "4.7.3"
@@ -1381,7 +1411,7 @@ nlcst-to-string@^1.0.0, nlcst-to-string@^1.1.0:
   resolved "https://registry.yarnpkg.com/nlcst-to-string/-/nlcst-to-string-1.1.0.tgz#12b2e59475ec29f7d61a146a79b3596dafcb344d"
   integrity sha1-ErLllHXsKffWGhRqebNZba/LNE0=
 
-nlcst-to-string@^2.0.0, nlcst-to-string@^2.0.1:
+nlcst-to-string@^2.0.0, nlcst-to-string@^2.0.1, nlcst-to-string@^2.0.3:
   version "2.0.3"
   resolved "https://registry.yarnpkg.com/nlcst-to-string/-/nlcst-to-string-2.0.3.tgz#b7913bb1305263b0561a86de68e179f17f7febe3"
   integrity sha512-OY2QhGdf6jpYfHqS4vJwqF7aIBZkaMjMUkcHcskMPitvXLuYNGdQvgVWI/5yKwkmIdmhft3ounSJv+Re2yydng==
@@ -1626,6 +1656,11 @@ pluralize@^7.0.0:
   resolved "https://registry.yarnpkg.com/pluralize/-/pluralize-7.0.0.tgz#298b89df8b93b0221dbf421ad2b1b1ea23fc6777"
   integrity sha512-ARhBOdzS3e41FbkW/XWrTEtukqqLoK5+Z/4UeDaLuSW+39JPeFgs4gCGqsrJHVZX0fUrx//4OF0K1CUGwlIFow==
 
+pos@^0.4.2:
+  version "0.4.2"
+  resolved "https://registry.yarnpkg.com/pos/-/pos-0.4.2.tgz#20e9c77fbeedcc356823cea63c7585cace93be2a"
+  integrity sha1-IOnHf77tzDVoI86mPHWFys6Tvio=
+
 process-nextick-args@~2.0.0:
   version "2.0.1"
   resolved "https://registry.yarnpkg.com/process-nextick-args/-/process-nextick-args-2.0.1.tgz#7820d9b16120cc55ca9ae7792680ae7dba6d7fe2"
@@ -1851,6 +1886,35 @@ retext-intensify@^4.0.0:
     unist-util-position "^3.0.0"
     weasels "^1.0.0"
 
+retext-keywords@^5.0.0:
+  version "5.0.0"
+  resolved "https://registry.yarnpkg.com/retext-keywords/-/retext-keywords-5.0.0.tgz#4d7c2a5c5da347ad0e0ebb9240a90fdc418b6001"
+  integrity sha512-rt+L4Ll6U98ydArqzRtuoWVsVjOjw0WDA2p5fwUX76paatI3/BCO7Il97OhZ0fd5C6nxWWtO9XwO1PiHmlI9Cg==
+  dependencies:
+    nlcst-to-string "^2.0.0"
+    stemmer "^1.0.0"
+    unist-util-visit "^1.0.0"
+
+retext-latin@^2.0.4:
+  version "2.0.4"
+  resolved "https://registry.yarnpkg.com/retext-latin/-/retext-latin-2.0.4.tgz#ef5d34ae7641ae56b0675ea391095e8ee762b251"
+  integrity sha512-fOoSSoQgDZ+l/uS81oxI3alBghDUPja0JEl0TpQxI6MN+dhM6fLFumPJwMZ4PJTyL5FFAgjlsdv8IX+6IRuwMw==
+  dependencies:
+    parse-latin "^4.0.0"
+    unherit "^1.0.4"
+
+"retext-lexrank@git://github.com/gorango/retext-lexrank.git#v0.0.1":
+  version "0.0.1"
+  resolved "git://github.com/gorango/retext-lexrank.git#9afe2fbedb16967e3892e266079905660545851b"
+  dependencies:
+    nlcst-to-string "^2.0.3"
+    retext-latin "^2.0.4"
+    retext-stringify "^2.0.4"
+    stemmer "^1.0.4"
+    to-vfile "^6.0.0"
+    unified "^8.4.2"
+    unist-util-visit "^2.0.1"
+
 "retext-overuse@git://github.com/gorango/retext-overuse.git#1.1.2":
   version "1.1.1"
   resolved "git://github.com/gorango/retext-overuse.git#f5bba87760e15de5b99806b9f8115ec146b8c9fa"
@@ -1873,6 +1937,33 @@ retext-passive@^2.0.0:
     nlcst-to-string "^2.0.0"
     unist-util-find-before "^2.0.0"
     unist-util-position "^3.0.0"
+
+retext-pos@^2.0.2:
+  version "2.0.2"
+  resolved "https://registry.yarnpkg.com/retext-pos/-/retext-pos-2.0.2.tgz#a552e5af3d61fa5cb2903e09b1d6dc1814d284ca"
+  integrity sha512-ranVA3ucvW8yKohNA+TTBHGza+/+kWb+yqKFfvGJDD5FlukmG36tcDKJcUklY3O7QZnTm5vAArFPWRQibWNcmA==
+  dependencies:
+    nlcst-to-string "^2.0.0"
+    pos "^0.4.2"
+    unist-util-visit "^1.0.0"
+
+retext-readability@^5.0.0:
+  version "5.0.0"
+  resolved "https://registry.yarnpkg.com/retext-readability/-/retext-readability-5.0.0.tgz#7484720379c5677c53af80b3ebf38d628fe4fb65"
+  integrity sha512-g3AzwyfPKUH0KLP57+kpeRJFI3uxu7x+UP4NH5srtmAhyt7b45JJfzMNwt73cYraq2AG+aMlQ541cjeefjsQlg==
+  dependencies:
+    automated-readability "^1.0.0"
+    coleman-liau "^1.0.0"
+    dale-chall "^1.0.0"
+    dale-chall-formula "^1.0.0"
+    flesch "^1.0.0"
+    gunning-fog "^1.0.0"
+    nlcst-to-string "^2.0.0"
+    smog-formula "^1.0.0"
+    spache "^1.1.0"
+    spache-formula "^1.0.0"
+    syllable "^3.2.0"
+    unist-util-visit "^1.0.0"
 
 retext-sentiment@^4.1.2:
   version "4.1.2"
@@ -1937,6 +2028,11 @@ signal-exit@^3.0.0:
   resolved "https://registry.yarnpkg.com/signal-exit/-/signal-exit-3.0.2.tgz#b5fdc08f1287ea1178628e415e25132b73646c6d"
   integrity sha1-tf3AjxKH6hF4Yo5BXiUTK3NkbG0=
 
+smog-formula@^1.0.0:
+  version "1.0.5"
+  resolved "https://registry.yarnpkg.com/smog-formula/-/smog-formula-1.0.5.tgz#52b041bf7a46a36d783d4c02c59bc4d2686f8046"
+  integrity sha512-ogE7LgeO/UeaEP1f1FPrQHwBWURWzb+VIQfw/1K3xR+uzI7o5uS9B5K6rw1+Eq+GtseAg3KGz2m49YylwnfCoQ==
+
 source-map@^0.5.3, source-map@^0.5.7:
   version "0.5.7"
   resolved "https://registry.yarnpkg.com/source-map/-/source-map-0.5.7.tgz#8a039d2d1021d22d1ea14c80d8ea468ba2ef3fcc"
@@ -1946,6 +2042,16 @@ source-map@^0.6.1, source-map@~0.6.1:
   version "0.6.1"
   resolved "https://registry.yarnpkg.com/source-map/-/source-map-0.6.1.tgz#74722af32e9614e9c287a8d0bbde48b5e2f1a263"
   integrity sha512-UjgapumWlbMhkBgzT7Ykc5YXUT46F0iKu8SGXq0bcwP5dz/h0Plj6enJqjz1Zbq2l5WaqYnrVbwWOWMyF3F47g==
+
+spache-formula@^1.0.0:
+  version "1.0.5"
+  resolved "https://registry.yarnpkg.com/spache-formula/-/spache-formula-1.0.5.tgz#7a421dcd1044d013b2ebb7d35cddc1e43a79b0ea"
+  integrity sha512-eYX6hYxeFRZbkcpunMrxhKcGAydeT0hZ958Q20J/UA119EybMrU+KuiSSKNbCwR4D55Yk8J6APg16yuWGtjcDw==
+
+spache@^1.1.0:
+  version "1.1.4"
+  resolved "https://registry.yarnpkg.com/spache/-/spache-1.1.4.tgz#edf21a69186eba2692b6dd14ef548e577e9dc95a"
+  integrity sha512-09mf/G1h6imwM+trkBKMSt84A1VhlSrpP/1MF2bh6hjyNo9XE4O6/QOlNAEE9X4up+EgJ4dNuJmumLDQtzg+kA==
 
 spdx-correct@^3.0.0:
   version "3.1.0"
@@ -2012,6 +2118,11 @@ standard-version@^7.0.1:
     semver "6.3.0"
     stringify-package "1.0.1"
     yargs "15.0.2"
+
+stemmer@^1.0.0, stemmer@^1.0.4:
+  version "1.0.5"
+  resolved "https://registry.yarnpkg.com/stemmer/-/stemmer-1.0.5.tgz#fd89beaf8bff5d04b6643bfffcaed0fc420deec0"
+  integrity sha512-SLq7annzSKRDStasOJJoftCSCzBCKmBmH38jC4fDtCunAqOzpTpIm9zmaHmwNJiZ8gLe9qpVdBVbEG2DC5dE2A==
 
 stopwords@0.0.5:
   version "0.0.5"
@@ -2128,7 +2239,7 @@ supports-color@^5.3.0:
   dependencies:
     has-flag "^3.0.0"
 
-syllable@^3.4.0:
+syllable@^3.2.0, syllable@^3.4.0:
   version "3.6.1"
   resolved "https://registry.yarnpkg.com/syllable/-/syllable-3.6.1.tgz#1b08a0522c14ebc4db871f5697f68f49616e87d8"
   integrity sha512-L2yAT4DRi9rwHpHMResxA/VKSM9T7X+eRAOEKoAFvHJxaxjtxT2Rt8qfB6pbrxeOZWsHu+ON0kTc9Oo0lU2PHA==
@@ -2333,7 +2444,7 @@ unist-util-visit@^1.0.0, unist-util-visit@^1.1.0:
   dependencies:
     unist-util-visit-parents "^2.0.0"
 
-unist-util-visit@^2.0.0:
+unist-util-visit@^2.0.0, unist-util-visit@^2.0.1:
   version "2.0.1"
   resolved "https://registry.yarnpkg.com/unist-util-visit/-/unist-util-visit-2.0.1.tgz#b4e1c1cb414250c6b3cb386b8e461d79312108ae"
   integrity sha512-bEDa5S/O8WRDeI1mLaMoKuFFi89AjF+UAoMNxO+bbVdo06q+53Vhq4iiv1PenL6Rx1ZxIpXIzqZoc5HD2I1oMA==

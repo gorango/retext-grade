@@ -1,0 +1,1126 @@
+{
+  "grade": 16,
+  "sentences": [
+    "Gen X Will Not Go Quietly",
+    "We have always lived loud, and we’re not going to change that",
+    "GGen X refuses to die with dignity.",
+    "We will die in the spirit of Grace Jones and Poison, thank you, as we express ourselves in any way we see fit, whether that be in a regular suit and tie, or a full body of tattoos.",
+    "Most of us are not, as our parents did, dressing our age.",
+    "We see those articles — the ones that say we’re supposed to stop wearing strappy sandals and high-tops, combat boots and miniskirts, or skin-tight jeans with holes — and we consider them for a second until we say “fuck that.”",
+    "We’ve always worn whatever we wanted and we don’t particularly give a crap if you don’t like it.",
+    "We grew up in the ’80s, the age of flash and color, punk, metal, and hip-hop.",
+    "We learned to live loud and we aren’t giving it up.",
+    "Our music is still loud and so are our clothes.",
+    "So are our opinions, which we’re not afraid to share with you.",
+    "We might be leading the PTA or playing bass in this cool little band on the side, or maybe we’re just taking our kid fishing, to show them what it’s like to do something outside.",
+    "We are now at the age we have seen most of this bullshit before, so you’re not going to fool us easily.",
+    "We lived through the era of Reagan and the fear of the Cold War. We saw the wall come down and we supported our LGBT friends until eventually, we helped to vote for the passage of marriage equality.",
+    "We came of age in the era of androgyny (the precursor to gender-neutral), and AIDS, back when the president of the United States understood Russia was not, and could likely never be, an ally.",
+    "We are now at the age we have seen most of this bullshit before, so you’re not going to fool us easily.",
+    "Gen X may be a small generation that’s stretched too thin right now as we look after our kids and our parents, but that just makes us all the more wary and skeptical.",
+    "We’re not sure if the country is going to survive Donald Trump, but we saw the country survive Ronald Reagan and Bill Clinton and George W. Bush, so we suspect there will be something afterward, whether the dust settles after one or (God forbid) two terms.",
+    "Gen X Is Having a (Very Gen X) Moment",
+    "Why the opt-out generation should reject its nostalgia bath",
+    "gen.medium.com",
+    "We like to listen to Lizzo and Duran Duran and Tupac and The Cure and Madonna and Childish Gambino.",
+    "And also old country, old rock and roll, old jazz, and occasionally, some classical.",
+    "We grew up on tacos and pizza and burgers.",
+    "We have come to love sushi and perogies and bulgogi.",
+    "But now, one of our kids is having gender identity issues and we’re trying to figure out how to help our partner adequately care for their parents while making sure our own mothers and fathers get to their doctor’s appointments, so we’re often tired.",
+    "But we still like to go out and have a drink once in a while and maybe even sing a little karaoke.",
+    "We’re not satisfied to stay in a marriage that isn’t working, so we’ll divorce responsibly, making sure the kids’ concerns take center stage, because that’s probably not what happened when our parents divorced and we want to do better by our own kids.",
+    "We know how to cook dinner, secure a mortgage, air up a bicycle tire, and skateboard, though we don’t skate much anymore.",
+    "Instead, we do yoga when we can.",
+    "And as we get older and wrinklier and our hair whitens and we’re stooped over barely shuffling along, we might have to switch to orthopedic shoes from our Chucks (if we haven't already), but we’ll still have Guns N’ Roses blasting into our hearing aids, dammit.",
+    "You can just go ahead and play Prince at all our funerals."
+  ],
+  "wordCount": 677,
+  "sentiment": {
+    "data": [
+      0,
+      0,
+      -3,
+      1,
+      0,
+      -6,
+      -6,
+      0,
+      0,
+      0,
+      3,
+      5,
+      -6,
+      0,
+      2,
+      -6,
+      -2,
+      -2,
+      0,
+      -1,
+      0,
+      2,
+      0,
+      0,
+      3,
+      2,
+      2,
+      1,
+      2,
+      0,
+      0,
+      -1
+    ],
+    "count": 19,
+    "average": -0.3125,
+    "intensity": 2.9473684210526314,
+    "ratio": 59
+  },
+  "lexrank": {
+    "data": [
+      0.016271246650229804,
+      0.13009365830478387,
+      0.23269824615061718,
+      0.2467601873433271,
+      0.2850217378890784,
+      0.32442909795040076,
+      0.3255903501544743,
+      0.360760504883552,
+      0.4675140093516093,
+      0.4770111112224583,
+      0.48632935319120885,
+      0.555125723158988,
+      0.5566697492540489,
+      0.5803185318598265,
+      0.5819776420555144,
+      0.5998781142960203,
+      0.6024387819590244,
+      0.6033063612571371,
+      0.636797049508028,
+      0.643664758418277,
+      0.6758922376064337,
+      0.718984528941961,
+      0.7379844031041454,
+      0.7404854328345238,
+      0.7440725941587744,
+      0.7622880691604504,
+      0.7793151222225976,
+      0.8054680538279684,
+      0.8303271787142107,
+      0.951078589031708,
+      1,
+      1
+    ],
+    "ranges": {
+      "top": 22,
+      "mid": 23,
+      "bot": 31
+    }
+  },
+  "keywords": [
+    {
+      "matches": [
+        "we’re",
+        "We’re"
+      ],
+      "match": "we’re",
+      "stem": "we’r",
+      "score": 1
+    },
+    {
+      "matches": [
+        "X"
+      ],
+      "match": "X",
+      "stem": "x",
+      "score": 0.5555555555555556
+    },
+    {
+      "matches": [
+        "age"
+      ],
+      "match": "age",
+      "stem": "ag",
+      "score": 0.5555555555555556
+    },
+    {
+      "matches": [
+        "kid",
+        "kids"
+      ],
+      "match": "kids",
+      "stem": "kid",
+      "score": 0.5555555555555556
+    },
+    {
+      "matches": [
+        "Gen"
+      ],
+      "match": "Gen",
+      "stem": "gen",
+      "score": 0.4444444444444444
+    },
+    {
+      "matches": [
+        "parents"
+      ],
+      "match": "parents",
+      "stem": "parent",
+      "score": 0.4444444444444444
+    },
+    {
+      "matches": [
+        "ones",
+        "one"
+      ],
+      "match": "one",
+      "stem": "on",
+      "score": 0.3333333333333333
+    },
+    {
+      "matches": [
+        "don’t"
+      ],
+      "match": "don’t",
+      "stem": "don’t",
+      "score": 0.3333333333333333
+    },
+    {
+      "matches": [
+        "country"
+      ],
+      "match": "country",
+      "stem": "countri",
+      "score": 0.3333333333333333
+    }
+  ],
+  "issues": [
+    {
+      "source": "retext-assuming",
+      "ruleId": "no-just"
+    },
+    {
+      "source": "retext-assuming",
+      "ruleId": "no-easily"
+    },
+    {
+      "source": "retext-assuming",
+      "ruleId": "no-easily"
+    },
+    {
+      "source": "retext-assuming",
+      "ruleId": "no-just"
+    },
+    {
+      "source": "retext-assuming",
+      "ruleId": "no-just"
+    },
+    {
+      "source": "retext-contractions",
+      "ruleId": "straight-apostrophe"
+    },
+    {
+      "source": "retext-equality",
+      "ruleId": "just"
+    },
+    {
+      "source": "retext-equality",
+      "ruleId": "easy"
+    },
+    {
+      "source": "retext-equality",
+      "ruleId": "easy"
+    },
+    {
+      "source": "retext-equality",
+      "ruleId": "just"
+    },
+    {
+      "source": "retext-equality",
+      "ruleId": "just"
+    },
+    {
+      "source": "retext-equality",
+      "ruleId": "prince-princess"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "hedge"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "hedge"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "weasel"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "hedge"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "weasel"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "weasel"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "weasel"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "hedge"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "weasel"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "hedge"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "hedge"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "weasel"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "hedge"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "filler"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "weasel"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "filler"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "weasel"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "weasel"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "weasel"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "weasel"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "weasel"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "weasel"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "weasel"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "hedge"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "filler"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "weasel"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "weasel"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "hedge"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "weasel"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "weasel"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "filler"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "weasel"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "weasel"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "weasel"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "weasel"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "weasel"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "hedge"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "weasel"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "weasel"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "filler"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "hedge"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "filler"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "filler"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "weasel"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "weasel"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "weasel"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "weasel"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "weasel"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "hedge"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "hedge"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "weasel"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "hedge"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "weasel"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "weasel"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "hedge"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "weasel"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "weasel"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "weasel"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "weasel"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "weasel"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "weasel"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "weasel"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "filler"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "weasel"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "hedge"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "weasel"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "weasel"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "weasel"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "weasel"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "weasel"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "weasel"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "weasel"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "filler"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "hedge"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "weasel"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "weasel"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "weasel"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "weasel"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "weasel"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "hedge"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "weasel"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "weasel"
+    },
+    {
+      "source": "retext-overuse",
+      "ruleId": "gen"
+    },
+    {
+      "source": "retext-overuse",
+      "ruleId": "gen x"
+    },
+    {
+      "source": "retext-overuse",
+      "ruleId": "loud"
+    },
+    {
+      "source": "retext-overuse",
+      "ruleId": "age"
+    },
+    {
+      "source": "retext-overuse",
+      "ruleId": "age"
+    },
+    {
+      "source": "retext-overuse",
+      "ruleId": "loud"
+    },
+    {
+      "source": "retext-overuse",
+      "ruleId": "loud"
+    },
+    {
+      "source": "retext-overuse",
+      "ruleId": "age"
+    },
+    {
+      "source": "retext-overuse",
+      "ruleId": "age"
+    },
+    {
+      "source": "retext-overuse",
+      "ruleId": "age"
+    },
+    {
+      "source": "retext-overuse",
+      "ruleId": "gen"
+    },
+    {
+      "source": "retext-overuse",
+      "ruleId": "gen x"
+    },
+    {
+      "source": "retext-overuse",
+      "ruleId": "country"
+    },
+    {
+      "source": "retext-overuse",
+      "ruleId": "country"
+    },
+    {
+      "source": "retext-overuse",
+      "ruleId": "gen"
+    },
+    {
+      "source": "retext-overuse",
+      "ruleId": "gen x"
+    },
+    {
+      "source": "retext-overuse",
+      "ruleId": "gen"
+    },
+    {
+      "source": "retext-overuse",
+      "ruleId": "gen x"
+    },
+    {
+      "source": "retext-overuse",
+      "ruleId": "country"
+    },
+    {
+      "source": "retext-readability",
+      "ruleId": "readability"
+    },
+    {
+      "source": "retext-readability",
+      "ruleId": "readability"
+    },
+    {
+      "source": "retext-simplify",
+      "ruleId": "very"
+    },
+    {
+      "source": "retext-assuming",
+      "ruleId": "no-just"
+    },
+    {
+      "source": "retext-assuming",
+      "ruleId": "no-easily"
+    },
+    {
+      "source": "retext-assuming",
+      "ruleId": "no-easily"
+    },
+    {
+      "source": "retext-assuming",
+      "ruleId": "no-just"
+    },
+    {
+      "source": "retext-assuming",
+      "ruleId": "no-just"
+    },
+    {
+      "source": "retext-contractions",
+      "ruleId": "straight-apostrophe"
+    },
+    {
+      "source": "retext-equality",
+      "ruleId": "just"
+    },
+    {
+      "source": "retext-equality",
+      "ruleId": "easy"
+    },
+    {
+      "source": "retext-equality",
+      "ruleId": "easy"
+    },
+    {
+      "source": "retext-equality",
+      "ruleId": "just"
+    },
+    {
+      "source": "retext-equality",
+      "ruleId": "just"
+    },
+    {
+      "source": "retext-equality",
+      "ruleId": "prince-princess"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "hedge"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "hedge"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "weasel"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "hedge"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "weasel"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "weasel"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "weasel"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "hedge"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "weasel"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "hedge"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "hedge"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "weasel"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "hedge"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "filler"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "weasel"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "filler"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "weasel"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "weasel"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "weasel"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "weasel"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "weasel"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "weasel"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "weasel"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "hedge"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "filler"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "weasel"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "weasel"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "hedge"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "weasel"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "weasel"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "filler"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "weasel"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "weasel"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "weasel"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "weasel"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "weasel"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "hedge"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "weasel"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "weasel"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "filler"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "hedge"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "filler"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "filler"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "weasel"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "weasel"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "weasel"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "weasel"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "weasel"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "hedge"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "hedge"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "weasel"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "hedge"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "weasel"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "weasel"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "hedge"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "weasel"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "weasel"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "weasel"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "weasel"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "weasel"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "weasel"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "weasel"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "filler"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "weasel"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "hedge"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "weasel"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "weasel"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "weasel"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "weasel"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "weasel"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "weasel"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "weasel"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "filler"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "hedge"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "weasel"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "weasel"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "weasel"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "weasel"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "weasel"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "hedge"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "weasel"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "weasel"
+    },
+    {
+      "source": "retext-overuse",
+      "ruleId": "gen"
+    },
+    {
+      "source": "retext-overuse",
+      "ruleId": "gen x"
+    },
+    {
+      "source": "retext-overuse",
+      "ruleId": "loud"
+    },
+    {
+      "source": "retext-overuse",
+      "ruleId": "age"
+    },
+    {
+      "source": "retext-overuse",
+      "ruleId": "age"
+    },
+    {
+      "source": "retext-overuse",
+      "ruleId": "loud"
+    },
+    {
+      "source": "retext-overuse",
+      "ruleId": "loud"
+    },
+    {
+      "source": "retext-overuse",
+      "ruleId": "age"
+    },
+    {
+      "source": "retext-overuse",
+      "ruleId": "age"
+    },
+    {
+      "source": "retext-overuse",
+      "ruleId": "age"
+    },
+    {
+      "source": "retext-overuse",
+      "ruleId": "gen"
+    },
+    {
+      "source": "retext-overuse",
+      "ruleId": "gen x"
+    },
+    {
+      "source": "retext-overuse",
+      "ruleId": "country"
+    },
+    {
+      "source": "retext-overuse",
+      "ruleId": "country"
+    },
+    {
+      "source": "retext-overuse",
+      "ruleId": "gen"
+    },
+    {
+      "source": "retext-overuse",
+      "ruleId": "gen x"
+    },
+    {
+      "source": "retext-overuse",
+      "ruleId": "gen"
+    },
+    {
+      "source": "retext-overuse",
+      "ruleId": "gen x"
+    },
+    {
+      "source": "retext-overuse",
+      "ruleId": "country"
+    },
+    {
+      "source": "retext-readability",
+      "ruleId": "readability"
+    },
+    {
+      "source": "retext-readability",
+      "ruleId": "readability"
+    },
+    {
+      "source": "retext-simplify",
+      "ruleId": "very"
+    }
+  ]
+}

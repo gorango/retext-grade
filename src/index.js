@@ -11,17 +11,25 @@ const indefinite = require('retext-indefinite-article')
 const intensify = require('retext-intensify')
 const overuse = require('retext-overuse')
 const passive = require('retext-passive')
-const readability = require('text-readability')
+const readability = require('retext-readability')
 const simplify = require('retext-simplify')
 const sentiment = require('retext-sentiment')
+const pos = require('retext-pos')
+const keywords = require('retext-keywords')
+const lexrank = require('retext-lexrank')
 const textReadability = require('text-readability')
+
+const getSentiment = require('./sentiment')
+const getLexrank = require('./lexrank')
+const getKeywords = require('./keywords')
+const getIssues = require('./issues')
+const getContent = require('./content')
 
 module.exports = moduleExports
 
-async function moduleExports (contents) {
-  const grade = textReadability.textStandard(contents, true)
+function moduleExports (contents) {
   const file = vfile({ contents })
-  const tree = await unified()
+  const processor = unified()
     .use(english)
     .use(assuming, {
       phrases: [
@@ -50,10 +58,30 @@ async function moduleExports (contents) {
     .use(readability)
     .use(simplify, { ignore: [] })
     .use(sentiment)
+    .use(pos)
+    .use(keywords, { maximum: 8 })
+    .use(lexrank)
     .use(stringify)
-    .process(file)
 
-  console.log(grade)
-  return tree.messages
+  processor.process(file)
+
+  const tree = processor.parse(file)
+
+  processor.run(tree, file)
+
+  return score(tree, file)
+
+  function score (tree, file) {
+    const { contents, messages, data } = file
+
+    return {
+      grade: textReadability.textStandard(contents, true),
+      ...getContent(tree), // { sentences, words }
+      sentiment: getSentiment(tree),
+      lexrank: getLexrank(tree),
+      keywords: getKeywords(data.keywords),
+      issues: getIssues(messages),
+    }
+  }
 }
 

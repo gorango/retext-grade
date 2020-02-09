@@ -1,13 +1,31 @@
 const fs = require('fs')
-const path = require('path')
-const vfile = require('vfile')
-
-const grade = require('../src')
+const retextGrade = require('../src')
 
 main()
 
-async function main () {
-  const file = fs.readFileSync('fixtures/basic/input.txt', 'utf-8')
-  const result = await grade(file)
-  console.log(result)
+function main () {
+  const file = fs.readFileSync('fixtures/gen_gen-x-will-not-go-quietly/input.txt', 'utf-8')
+  const result = retextGrade(file)
+  const {
+    grade,
+    sentences,
+    wordCount,
+    sentiment,
+    lexrank,
+    keywords,
+    issues,
+  } = result
+
+  console.log()
+  console.log('sentences:  ', sentences.map(s => s.length))
+  console.log('sentiments: ', sentiment)
+  console.log('lexrank:    ', lexrank)
+  console.log('keywords:   ', keywords)
+  console.log('issues:     ', issues) // Math.round(issues / sentences * 100))
+  console.log('grade:      ', grade)
+  console.log('word count: ', wordCount)
+  console.log('sentiment:  ', Math.round(sentiment.average * 100))
+  console.log('intensity:  ', sentiment.intensity)
+  console.log('sentiments: ', sentiment.ratio)
+  console.log('time:       ', Math.round(wordCount / 250) + 'm')
 }
