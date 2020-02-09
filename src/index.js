@@ -63,8 +63,6 @@ function moduleExports (contents) {
     .use(lexrank)
     .use(stringify)
 
-  processor.process(file)
-
   const tree = processor.parse(file)
 
   processor.run(tree, file)
