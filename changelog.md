@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.3](https://github.com/gorango/rehype-extract-article/compare/v0.0.2...v0.0.3) (2020-02-10)
+
+
+### Bug Fixes
+
+* **keywords:** add count to keywords ([48f819c](https://github.com/gorango/rehype-extract-article/commit/48f819c3309fe642c7d9fefc184badbdf59352e0))
+
 ### [0.0.2](https://github.com/gorango/rehype-extract-article/compare/v0.0.1...v0.0.2) (2020-02-09)
 
 
