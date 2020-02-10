@@ -22,6 +22,7 @@ function moduleExports (keywords) {
     }, ['0', 0])
     return arr.concat({
       matches: Object.keys(matchesDict),
+      count: matches.length,
       match,
       stem,
       score,
