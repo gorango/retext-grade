@@ -31,7 +31,7 @@
     "retext-indefinite-article": "^1.1.7",
     "retext-intensify": "^4.0.0",
     "retext-keywords": "^5.0.0",
-    "retext-lexrank": "git://github.com/gorango/retext-lexrank.git#v0.0.1",
+    "retext-lexrank": "git://github.com/gorango/retext-lexrank.git#v0.0.2",
     "retext-overuse": "git://github.com/gorango/retext-overuse.git#1.1.2",
     "retext-passive": "^2.0.0",
     "retext-pos": "^2.0.2",

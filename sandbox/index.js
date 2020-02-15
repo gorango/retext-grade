@@ -4,7 +4,7 @@ const retextGrade = require('../src')
 main()
 
 function main () {
-  const file = fs.readFileSync('fixtures/gen_gen-x-will-not-go-quietly/input.txt', 'utf-8')
+  const file = fs.readFileSync('fixtures/wired_bloomber-tech-bro/input.txt', 'utf-8')
   const result = retextGrade(file)
   const {
     grade,

@@ -1903,9 +1903,9 @@ retext-latin@^2.0.4:
     parse-latin "^4.0.0"
     unherit "^1.0.4"
 
-"retext-lexrank@git://github.com/gorango/retext-lexrank.git#v0.0.1":
-  version "0.0.1"
-  resolved "git://github.com/gorango/retext-lexrank.git#9afe2fbedb16967e3892e266079905660545851b"
+"retext-lexrank@git://github.com/gorango/retext-lexrank.git#v0.0.2":
+  version "0.0.2"
+  resolved "git://github.com/gorango/retext-lexrank.git#674016ab989b1178c1d3d05573fa84ab88616d19"
   dependencies:
     nlcst-to-string "^2.0.3"
     retext-latin "^2.0.4"

@@ -1,0 +1,1643 @@
+{
+  "grade": 16,
+  "sentences": [
+    "A few years back, Mark Zuckerberg began a listening tour across America that looked to all the world like the prelude to a run for office.",
+    "Many guessed 2020 as the year that a billionaire startup founder would make his case for disruptive leadership on behalf of the American people.",
+    "In fact, the social media baron, though now 35 and eligible for the presidency, chose to stay at Facebook.",
+    "The arrogant tech-world disruptor lane would remain unfilled in this year’s campaign.",
+    "Or so it seemed.",
+    "There was, of course, Andrew Yang—at just 45 years old a bona fide Silicon Valley success story.",
+    "He may have called attention to some outré ideas popular in tech circles, including a universal basic income and plans to forestall the robot apocalypse.",
+    "But he was hardly the founder type; he was offering his insights rather than just his brilliant self.",
+    "And now he’s gone, having abandoned his campaign after faring poorly in the New Hampshire primary.",
+    "Let’s not deceive ourselves by looking solely to the younger generation.",
+    "Yang was not the only tech candidate in 2020; on the contrary, the campaign features one of the old-school tech disruptors, Mike Bloomberg—a man who built his fortune by making powerful, customized computers accessible to rank-and-file bankers and traders.",
+    "Bloomberg boasts of breaking rules and moving fast in the manner of people half his age; and he’s driven by the same tech-world confidence that says, I and I alone can innovate my way through any social problem.",
+    "Strange to consider that for all the public scrutiny and criticism that big tech companies have gotten in recent years—most notably for fostering the kind of unregulated online environment that allowed the 2016 campaign to be fought through targeted deceit—there is a chance the presidential election could come down to two candidates who have more than made their peace with Silicon Valley.",
+    "President Trump has managed to keep tech leaders close, holding the threat of regulation over their heads as he works to ensure that they will do little to stop his divisive online campaign practices.",
+    "As for Bloomberg, who has been rising in the polls thanks to his unrestrained personal expenditures, a recent report in Recode highlighted his campaign’s aggressive overtures toward Silicon Valley.",
+    "Bloomberg isn’t seeking financial donations from the big tech companies; he wants their skilled employees.",
+    "In pitches to prominent tech figures, according to Recode, Bloomberg surrogates are asking them to send their “most talented friends,” particularly if those friends are experts in data science, internet marketing, or ad buys.",
+    "Bloomberg presents himself, in these contexts, as an ally.",
+    "In an interview with the San Jose Mercury News last month, he said he opposed proposals by Elizabeth Warren and Bernie Sanders to rein in big tech companies, because “breaking things up just to be nasty isn’t the answer.”",
+    "Trump, no doubt, would agree: Why weaken these behemoths when they have so much to give to a national candidate?",
+    "Besides, Bloomberg is a kindred spirit.",
+    "His wealth came from the kind of runaway profits that can be made through digital commerce, and he has no qualms about using it to get himself elected president.",
+    "He may even see it as his duty.",
+    "In his memoir, Bloomberg by Bloomberg, the former New York City mayor recalls speaking with an employee who expressed doubt about the new company he was joining.",
+    "The conversation was over before it started, Bloomberg writes: “Either they believe in me, trust me, and are willing to take the risk that I will deliver success, or they don’t.",
+    "It’s that simple.",
+    "There’s no haggling.",
+    "I don’t negotiate.”",
+    "Bloomberg’s tech startup wasn’t typical.",
+    "It was always based in New York City, for one thing.",
+    "The time was the early 1980s, and Bloomberg was 39, a general partner at the prominent Wall Street firm Salomon Brothers.",
+    "He had been a successful trader who was then assigned to supervise the firm’s computer services.",
+    "One day, out of the blue, Salomon’s executive committee agreed to a lucrative merger offer.",
+    "Bloomberg and the other partners immediately received enormous checks—his was for $10 million.",
+    "Unlike most of the other partners, Bloomberg was told not to come back to the merged company.",
+    "With a fat wallet but no job, Bloomberg decided to start a tech company that would give traders the ability to use computers for the analysis that separates smart trades from foolish ones.",
+    "He had a financial windfall to build a team and a business plan; the idea was customized terminals with access to financial data and tools to compare investments and track changes in price over time, among other things.",
+    "Fair to say, success hinged on landing an important first client, Merrill Lynch, and keeping expenses low by having the small team do much of the work themselves.",
+    "“Never before or since did I have as much fun and as challenging a time,” he recalled in his 1997 book.",
+    "In particular, Bloomberg relates how he and his team would install the terminals themselves for early corporate clients.",
+    "“Amid old McDonald’s hamburger wrappers and mouse droppings, we dragged wires from our computers to the keyboards and screens we were putting in place, stuffing the cables through holes we drilled in other people’s furniture—all without permission, violating every fire law, building code, and union regulation on the books,” he writes.",
+    "“It’s amazing we didn’t burn down some office or electrocute ourselves.",
+    "At the end of the day, ten or eleven o’clock at night, we’d turn it on and watch what we’d created come alive.",
+    "It was so satisfying.”",
+    "In this joyful, who-gives-a-damn description of growing a startup, Bloomberg appears downright Zuckerbergian.",
+    "What he was doing was important; the fire code and union regulations were tedious, inefficient, and an obstacle to progress.",
+    "Rules are for the ordinary, not the extraordinary.",
+    "Still, it is jarring to read this cavalier approach to the law from a politician who has championed “stop and frisk” policing, with its presumption of guilt that fell so heavily on young black men.",
+    "A few others have pointed out this inconsistent attitude toward rule-breaking, and the message must have gotten through to Bloomberg.",
+    "For the 2019 reissue of Bloomberg by Bloomberg, that passage has been changed.",
+    "He has deleted the phrase, “violating every fire law, building code, and union regulation on the books” and replaced it with the more innocuous, “all without permission, without giving any thought to any fire law or building code.”",
+    "In the process, he has deleted his offense against organized labor, while changing something willful—violating fire laws and the like—into something offhand.",
+    "“Your honor, I didn’t really give the question any thought.”",
+    "Not to overanalyze an editing choice, but this question of intent is really central to how we approach Silicon Valley and our leaders more generally.",
+    "There was something elusive, too, about that much-discussed phrase emanating from Facebook, “Move fast and break things.”",
+    "Was Facebook breaking things on purpose, choosing that thing over there to disassemble—say, offline friendships or democracy—in order to grow its business?",
+    "Or was it just saying, don’t pay any mind to what you might be breaking?",
+    "Things are going to get damaged, and that’s OK.",
+    "Perhaps it is a sign of how dire the political system seems that so many are open to putting their hopes in a billionaire savior to go up against the (perhaps) billionaire president.",
+    "You might think that, given his background, Bloomberg would be uniquely able to uncurl Silicon Valley’s grip on our lives—our shopping, our conversations, our elections.",
+    "He, if anyone, should be beyond their reach.",
+    "Of course, he only appears to have that freedom because he made billions of dollars in the very same way.",
+    "Inside Mark Zuckerberg's",
+    "lost notebook",
+    "The WIRED Guide to",
+    "the internet of things",
+    "Ask the Know-It-Alls:",
+    "What is a coronavirus",
+    "?",
+    "The bird “snarge”",
+    "menacing air travel",
+    "The internet is a toxic hellscape—",
+    "but we can fix it",
+    "👁 The secret history",
+    "of facial recognition",
+    ".",
+    "Plus, the",
+    "latest news on AI",
+    "💻 Upgrade your work game with our Gear team’s",
+    "favorite laptops",
+    ",",
+    "keyboards",
+    ",",
+    "typing alternatives",
+    ", and",
+    "noise-canceling headphones"
+  ],
+  "wordCount": 1355,
+  "sentiment": {
+    "data": [
+      2,
+      -1,
+      0,
+      -2,
+      0,
+      2,
+      3,
+      4,
+      -4,
+      3,
+      5,
+      -1,
+      2,
+      -2,
+      0,
+      1,
+      2,
+      2,
+      -2,
+      -1,
+      1,
+      6,
+      0,
+      -1,
+      1,
+      0,
+      -1,
+      0,
+      0,
+      0,
+      2,
+      3,
+      4,
+      0,
+      0,
+      0,
+      0,
+      4,
+      4,
+      0,
+      -5,
+      4,
+      1,
+      0,
+      4,
+      -2,
+      0,
+      -2,
+      0,
+      0,
+      -6,
+      -4,
+      2,
+      0,
+      0,
+      -1,
+      1,
+      -3,
+      -1,
+      0,
+      1,
+      2,
+      0,
+      -3,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      -3,
+      0,
+      0,
+      2,
+      0,
+      0,
+      0,
+      0,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "count": 46,
+    "average": 0.29069767441860467,
+    "intensity": 2.5,
+    "ratio": 53
+  },
+  "lexrank": {
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0.010171078618705122,
+      0.016706796723926425,
+      0.027842389199811492,
+      0.027842389199811492,
+      0.027842389199811492,
+      0.027842389199811492,
+      0.0370692362302452,
+      0.03996349315272676,
+      0.04454432173737559,
+      0.05934082657000795,
+      0.06364444199868319,
+      0.06933787944052602,
+      0.09717453744785493,
+      0.10917447683904846,
+      0.11231219620632996,
+      0.1442177181315634,
+      0.14816885985143544,
+      0.151095641726503,
+      0.18780843612429832,
+      0.21098581608503927,
+      0.21110910331038774,
+      0.2784479216383931,
+      0.2957640706829977,
+      0.2970318503869133,
+      0.34552962468024423,
+      0.3596944943318384,
+      0.36666698735560715,
+      0.3740647017666418,
+      0.40013940366772976,
+      0.4041881827063819,
+      0.4392448996548439,
+      0.4455061033888188,
+      0.45416111713034923,
+      0.454602146050553,
+      0.45460214605055316,
+      0.4576326222676625,
+      0.46700815483208513,
+      0.468829003648073,
+      0.4927733388301892,
+      0.5072848638980463,
+      0.537297151751545,
+      0.5504802164418447,
+      0.5544434855305187,
+      0.5708922100333519,
+      0.5792870494468347,
+      0.6023777529251465,
+      0.6126626628721236,
+      0.6145137751321876,
+      0.6313554115019006,
+      0.650069281186046,
+      0.6571461927274426,
+      0.6586160552526805,
+      0.6592504537261459,
+      0.6632158256859141,
+      0.6805095809352703,
+      0.6850526587598388,
+      0.6985624797188479,
+      0.6986617009003067,
+      0.7142609296142863,
+      0.7199568676393514,
+      0.7281131711069943,
+      0.7357494526509961,
+      0.7499311813336346,
+      0.7538517968477226,
+      0.7538667681207051,
+      0.7669741426111878,
+      0.7716051897702129,
+      0.7795515413605334,
+      0.7808717501554903,
+      0.7846728091557886,
+      0.7865050362357567,
+      0.7920191750599208,
+      0.8089137080062266,
+      0.8290531472396142,
+      0.8305112217708844,
+      0.8315255981395013,
+      0.8578116039853011,
+      0.9113485819915236,
+      0.9244613869686852,
+      0.9432379807390968,
+      0.9473088811356898,
+      1
+    ],
+    "ranges": {
+      "top": 23,
+      "mid": 39,
+      "bot": 10
+    }
+  },
+  "keywords": [
+    {
+      "matches": [
+        "Bloomberg"
+      ],
+      "count": 20,
+      "match": "Bloomberg",
+      "stem": "bloomberg",
+      "score": 1
+    },
+    {
+      "matches": [
+        "tech"
+      ],
+      "count": 10,
+      "match": "tech",
+      "stem": "tech",
+      "score": 0.5
+    },
+    {
+      "matches": [
+        "companies",
+        "company"
+      ],
+      "count": 6,
+      "match": "companies",
+      "stem": "compani",
+      "score": 0.3
+    },
+    {
+      "matches": [
+        "things",
+        "Things"
+      ],
+      "count": 6,
+      "match": "things",
+      "stem": "thing",
+      "score": 0.3
+    },
+    {
+      "matches": [
+        "campaign"
+      ],
+      "count": 5,
+      "match": "campaign",
+      "stem": "campaign",
+      "score": 0.25
+    },
+    {
+      "matches": [
+        "Silicon"
+      ],
+      "count": 5,
+      "match": "Silicon",
+      "stem": "silicon",
+      "score": 0.25
+    },
+    {
+      "matches": [
+        "New",
+        "News",
+        "news"
+      ],
+      "count": 5,
+      "match": "New",
+      "stem": "new",
+      "score": 0.25
+    },
+    {
+      "matches": [
+        "fire"
+      ],
+      "count": 5,
+      "match": "fire",
+      "stem": "fire",
+      "score": 0.25
+    },
+    {
+      "matches": [
+        "law",
+        "laws"
+      ],
+      "count": 5,
+      "match": "law",
+      "stem": "law",
+      "score": 0.25
+    }
+  ],
+  "issues": [
+    {
+      "source": "retext-assuming",
+      "ruleId": "no-just"
+    },
+    {
+      "source": "retext-assuming",
+      "ruleId": "no-just"
+    },
+    {
+      "source": "retext-assuming",
+      "ruleId": "no-just"
+    },
+    {
+      "source": "retext-assuming",
+      "ruleId": "no-simple"
+    },
+    {
+      "source": "retext-assuming",
+      "ruleId": "no-just"
+    },
+    {
+      "source": "retext-equality",
+      "ruleId": "her-him"
+    },
+    {
+      "source": "retext-equality",
+      "ruleId": "of-course"
+    },
+    {
+      "source": "retext-equality",
+      "ruleId": "just"
+    },
+    {
+      "source": "retext-equality",
+      "ruleId": "just"
+    },
+    {
+      "source": "retext-equality",
+      "ruleId": "her-him"
+    },
+    {
+      "source": "retext-equality",
+      "ruleId": "her-him"
+    },
+    {
+      "source": "retext-equality",
+      "ruleId": "her-him"
+    },
+    {
+      "source": "retext-equality",
+      "ruleId": "he-she"
+    },
+    {
+      "source": "retext-equality",
+      "ruleId": "he-she"
+    },
+    {
+      "source": "retext-equality",
+      "ruleId": "he-she"
+    },
+    {
+      "source": "retext-equality",
+      "ruleId": "he-she"
+    },
+    {
+      "source": "retext-equality",
+      "ruleId": "her-him"
+    },
+    {
+      "source": "retext-equality",
+      "ruleId": "her-him"
+    },
+    {
+      "source": "retext-equality",
+      "ruleId": "he-she"
+    },
+    {
+      "source": "retext-equality",
+      "ruleId": "her-him"
+    },
+    {
+      "source": "retext-equality",
+      "ruleId": "her-him"
+    },
+    {
+      "source": "retext-equality",
+      "ruleId": "her-him"
+    },
+    {
+      "source": "retext-equality",
+      "ruleId": "he-she"
+    },
+    {
+      "source": "retext-equality",
+      "ruleId": "herself-himself"
+    },
+    {
+      "source": "retext-equality",
+      "ruleId": "just"
+    },
+    {
+      "source": "retext-equality",
+      "ruleId": "he-she"
+    },
+    {
+      "source": "retext-equality",
+      "ruleId": "he-she"
+    },
+    {
+      "source": "retext-equality",
+      "ruleId": "he-she"
+    },
+    {
+      "source": "retext-equality",
+      "ruleId": "her-him"
+    },
+    {
+      "source": "retext-equality",
+      "ruleId": "her-him"
+    },
+    {
+      "source": "retext-equality",
+      "ruleId": "her-him"
+    },
+    {
+      "source": "retext-equality",
+      "ruleId": "herself-himself"
+    },
+    {
+      "source": "retext-equality",
+      "ruleId": "simple"
+    },
+    {
+      "source": "retext-equality",
+      "ruleId": "he-she"
+    },
+    {
+      "source": "retext-equality",
+      "ruleId": "he-she"
+    },
+    {
+      "source": "retext-equality",
+      "ruleId": "he-she"
+    },
+    {
+      "source": "retext-equality",
+      "ruleId": "brothers-sisters"
+    },
+    {
+      "source": "retext-equality",
+      "ruleId": "he-she"
+    },
+    {
+      "source": "retext-equality",
+      "ruleId": "her-him"
+    },
+    {
+      "source": "retext-equality",
+      "ruleId": "he-she"
+    },
+    {
+      "source": "retext-equality",
+      "ruleId": "her-him"
+    },
+    {
+      "source": "retext-equality",
+      "ruleId": "he-she"
+    },
+    {
+      "source": "retext-equality",
+      "ruleId": "her-him"
+    },
+    {
+      "source": "retext-equality",
+      "ruleId": "he-she"
+    },
+    {
+      "source": "retext-equality",
+      "ruleId": "he-she"
+    },
+    {
+      "source": "retext-equality",
+      "ruleId": "gals-men"
+    },
+    {
+      "source": "retext-equality",
+      "ruleId": "he-she"
+    },
+    {
+      "source": "retext-equality",
+      "ruleId": "her-him"
+    },
+    {
+      "source": "retext-equality",
+      "ruleId": "he-she"
+    },
+    {
+      "source": "retext-equality",
+      "ruleId": "he-she"
+    },
+    {
+      "source": "retext-equality",
+      "ruleId": "just"
+    },
+    {
+      "source": "retext-equality",
+      "ruleId": "her-him"
+    },
+    {
+      "source": "retext-equality",
+      "ruleId": "of-course"
+    },
+    {
+      "source": "retext-equality",
+      "ruleId": "he-she"
+    },
+    {
+      "source": "retext-equality",
+      "ruleId": "he-she"
+    },
+    {
+      "source": "retext-equality",
+      "ruleId": "he-she"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "weasel"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "weasel"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "weasel"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "weasel"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "weasel"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "weasel"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "weasel"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "weasel"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "hedge"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "weasel"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "hedge"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "hedge"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "weasel"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "weasel"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "weasel"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "hedge"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "weasel"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "filler"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "weasel"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "weasel"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "weasel"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "weasel"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "hedge"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "hedge"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "hedge"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "weasel"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "weasel"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "weasel"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "weasel"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "hedge"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "weasel"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "weasel"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "weasel"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "weasel"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "weasel"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "weasel"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "weasel"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "hedge"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "hedge"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "weasel"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "filler"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "weasel"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "filler"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "weasel"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "weasel"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "hedge"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "hedge"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "weasel"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "filler"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "hedge"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "weasel"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "hedge"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "weasel"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "hedge"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "weasel"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "hedge"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "weasel"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "weasel"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "weasel"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "hedge"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "weasel"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "hedge"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "weasel"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "hedge"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "weasel"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "weasel"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "weasel"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "weasel"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "filler"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "weasel"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "hedge"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "weasel"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "weasel"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "filler"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "hedge"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "filler"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "filler"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "hedge"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "weasel"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "filler"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "weasel"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "weasel"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "weasel"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "weasel"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "weasel"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "hedge"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "weasel"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "weasel"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "filler"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "weasel"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "hedge"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "weasel"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "weasel"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "weasel"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "hedge"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "weasel"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "hedge"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "weasel"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "weasel"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "weasel"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "filler"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "hedge"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "weasel"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "weasel"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "filler"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "filler"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "weasel"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "weasel"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "hedge"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "weasel"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "weasel"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "filler"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "filler"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "filler"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "weasel"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "weasel"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "weasel"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "weasel"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "weasel"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "weasel"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "hedge"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "weasel"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "hedge"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "hedge"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "weasel"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "weasel"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "weasel"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "weasel"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "filler"
+    },
+    {
+      "source": "retext-intensify",
+      "ruleId": "hedge"
+    },
+    {
+      "source": "retext-overuse",
+      "ruleId": "years"
+    },
+    {
+      "source": "retext-overuse",
+      "ruleId": "billionaire"
+    },
+    {
+      "source": "retext-overuse",
+      "ruleId": "startup"
+    },
+    {
+      "source": "retext-overuse",
+      "ruleId": "years"
+    },
+    {
+      "source": "retext-overuse",
+      "ruleId": "campaign"
+    },
+    {
+      "source": "retext-overuse",
+      "ruleId": "years"
+    },
+    {
+      "source": "retext-overuse",
+      "ruleId": "silicon"
+    },
+    {
+      "source": "retext-overuse",
+      "ruleId": "silicon valley"
+    },
+    {
+      "source": "retext-overuse",
+      "ruleId": "valley"
+    },
+    {
+      "source": "retext-overuse",
+      "ruleId": "success"
+    },
+    {
+      "source": "retext-overuse",
+      "ruleId": "tech"
+    },
+    {
+      "source": "retext-overuse",
+      "ruleId": "campaign"
+    },
+    {
+      "source": "retext-overuse",
+      "ruleId": "tech"
+    },
+    {
+      "source": "retext-overuse",
+      "ruleId": "campaign"
+    },
+    {
+      "source": "retext-overuse",
+      "ruleId": "tech"
+    },
+    {
+      "source": "retext-overuse",
+      "ruleId": "breaking"
+    },
+    {
+      "source": "retext-overuse",
+      "ruleId": "big"
+    },
+    {
+      "source": "retext-overuse",
+      "ruleId": "tech"
+    },
+    {
+      "source": "retext-overuse",
+      "ruleId": "years"
+    },
+    {
+      "source": "retext-overuse",
+      "ruleId": "campaign"
+    },
+    {
+      "source": "retext-overuse",
+      "ruleId": "silicon"
+    },
+    {
+      "source": "retext-overuse",
+      "ruleId": "silicon valley"
+    },
+    {
+      "source": "retext-overuse",
+      "ruleId": "valley"
+    },
+    {
+      "source": "retext-overuse",
+      "ruleId": "president"
+    },
+    {
+      "source": "retext-overuse",
+      "ruleId": "tech"
+    },
+    {
+      "source": "retext-overuse",
+      "ruleId": "regulation"
+    },
+    {
+      "source": "retext-overuse",
+      "ruleId": "campaign"
+    },
+    {
+      "source": "retext-overuse",
+      "ruleId": "silicon"
+    },
+    {
+      "source": "retext-overuse",
+      "ruleId": "silicon valley"
+    },
+    {
+      "source": "retext-overuse",
+      "ruleId": "valley"
+    },
+    {
+      "source": "retext-overuse",
+      "ruleId": "financial"
+    },
+    {
+      "source": "retext-overuse",
+      "ruleId": "big"
+    },
+    {
+      "source": "retext-overuse",
+      "ruleId": "tech"
+    },
+    {
+      "source": "retext-overuse",
+      "ruleId": "tech"
+    },
+    {
+      "source": "retext-overuse",
+      "ruleId": "internet"
+    },
+    {
+      "source": "retext-overuse",
+      "ruleId": "big"
+    },
+    {
+      "source": "retext-overuse",
+      "ruleId": "tech"
+    },
+    {
+      "source": "retext-overuse",
+      "ruleId": "breaking"
+    },
+    {
+      "source": "retext-overuse",
+      "ruleId": "give"
+    },
+    {
+      "source": "retext-overuse",
+      "ruleId": "president"
+    },
+    {
+      "source": "retext-overuse",
+      "ruleId": "company"
+    },
+    {
+      "source": "retext-overuse",
+      "ruleId": "success"
+    },
+    {
+      "source": "retext-overuse",
+      "ruleId": "tech"
+    },
+    {
+      "source": "retext-overuse",
+      "ruleId": "startup"
+    },
+    {
+      "source": "retext-overuse",
+      "ruleId": "time"
+    },
+    {
+      "source": "retext-overuse",
+      "ruleId": "company"
+    },
+    {
+      "source": "retext-overuse",
+      "ruleId": "tech"
+    },
+    {
+      "source": "retext-overuse",
+      "ruleId": "company"
+    },
+    {
+      "source": "retext-overuse",
+      "ruleId": "give"
+    },
+    {
+      "source": "retext-overuse",
+      "ruleId": "financial"
+    },
+    {
+      "source": "retext-overuse",
+      "ruleId": "team"
+    },
+    {
+      "source": "retext-overuse",
+      "ruleId": "financial"
+    },
+    {
+      "source": "retext-overuse",
+      "ruleId": "time"
+    },
+    {
+      "source": "retext-overuse",
+      "ruleId": "success"
+    },
+    {
+      "source": "retext-overuse",
+      "ruleId": "team"
+    },
+    {
+      "source": "retext-overuse",
+      "ruleId": "time"
+    },
+    {
+      "source": "retext-overuse",
+      "ruleId": "team"
+    },
+    {
+      "source": "retext-overuse",
+      "ruleId": "fire"
+    },
+    {
+      "source": "retext-overuse",
+      "ruleId": "law"
+    },
+    {
+      "source": "retext-overuse",
+      "ruleId": "building"
+    },
+    {
+      "source": "retext-overuse",
+      "ruleId": "building code"
+    },
+    {
+      "source": "retext-overuse",
+      "ruleId": "code"
+    },
+    {
+      "source": "retext-overuse",
+      "ruleId": "union"
+    },
+    {
+      "source": "retext-overuse",
+      "ruleId": "regulation"
+    },
+    {
+      "source": "retext-overuse",
+      "ruleId": "startup"
+    },
+    {
+      "source": "retext-overuse",
+      "ruleId": "fire"
+    },
+    {
+      "source": "retext-overuse",
+      "ruleId": "code"
+    },
+    {
+      "source": "retext-overuse",
+      "ruleId": "union"
+    },
+    {
+      "source": "retext-overuse",
+      "ruleId": "law"
+    },
+    {
+      "source": "retext-overuse",
+      "ruleId": "fire"
+    },
+    {
+      "source": "retext-overuse",
+      "ruleId": "law"
+    },
+    {
+      "source": "retext-overuse",
+      "ruleId": "building"
+    },
+    {
+      "source": "retext-overuse",
+      "ruleId": "building code"
+    },
+    {
+      "source": "retext-overuse",
+      "ruleId": "code"
+    },
+    {
+      "source": "retext-overuse",
+      "ruleId": "union"
+    },
+    {
+      "source": "retext-overuse",
+      "ruleId": "regulation"
+    },
+    {
+      "source": "retext-overuse",
+      "ruleId": "fire"
+    },
+    {
+      "source": "retext-overuse",
+      "ruleId": "law"
+    },
+    {
+      "source": "retext-overuse",
+      "ruleId": "building"
+    },
+    {
+      "source": "retext-overuse",
+      "ruleId": "building code"
+    },
+    {
+      "source": "retext-overuse",
+      "ruleId": "code"
+    },
+    {
+      "source": "retext-overuse",
+      "ruleId": "fire"
+    },
+    {
+      "source": "retext-overuse",
+      "ruleId": "give"
+    },
+    {
+      "source": "retext-overuse",
+      "ruleId": "silicon"
+    },
+    {
+      "source": "retext-overuse",
+      "ruleId": "silicon valley"
+    },
+    {
+      "source": "retext-overuse",
+      "ruleId": "valley"
+    },
+    {
+      "source": "retext-overuse",
+      "ruleId": "breaking"
+    },
+    {
+      "source": "retext-overuse",
+      "ruleId": "breaking"
+    },
+    {
+      "source": "retext-overuse",
+      "ruleId": "billionaire"
+    },
+    {
+      "source": "retext-overuse",
+      "ruleId": "billionaire"
+    },
+    {
+      "source": "retext-overuse",
+      "ruleId": "president"
+    },
+    {
+      "source": "retext-overuse",
+      "ruleId": "silicon"
+    },
+    {
+      "source": "retext-overuse",
+      "ruleId": "internet"
+    },
+    {
+      "source": "retext-overuse",
+      "ruleId": "internet"
+    },
+    {
+      "source": "retext-passive",
+      "ruleId": "fought"
+    },
+    {
+      "source": "retext-passive",
+      "ruleId": "made"
+    },
+    {
+      "source": "retext-passive",
+      "ruleId": "told"
+    },
+    {
+      "source": "retext-readability",
+      "ruleId": "readability"
+    },
+    {
+      "source": "retext-readability",
+      "ruleId": "readability"
+    },
+    {
+      "source": "retext-readability",
+      "ruleId": "readability"
+    },
+    {
+      "source": "retext-readability",
+      "ruleId": "readability"
+    },
+    {
+      "source": "retext-readability",
+      "ruleId": "readability"
+    },
+    {
+      "source": "retext-readability",
+      "ruleId": "readability"
+    },
+    {
+      "source": "retext-readability",
+      "ruleId": "readability"
+    },
+    {
+      "source": "retext-readability",
+      "ruleId": "readability"
+    },
+    {
+      "source": "retext-readability",
+      "ruleId": "readability"
+    },
+    {
+      "source": "retext-readability",
+      "ruleId": "readability"
+    },
+    {
+      "source": "retext-readability",
+      "ruleId": "readability"
+    },
+    {
+      "source": "retext-readability",
+      "ruleId": "readability"
+    },
+    {
+      "source": "retext-readability",
+      "ruleId": "readability"
+    },
+    {
+      "source": "retext-readability",
+      "ruleId": "readability"
+    },
+    {
+      "source": "retext-readability",
+      "ruleId": "readability"
+    },
+    {
+      "source": "retext-readability",
+      "ruleId": "readability"
+    },
+    {
+      "source": "retext-readability",
+      "ruleId": "readability"
+    },
+    {
+      "source": "retext-readability",
+      "ruleId": "readability"
+    },
+    {
+      "source": "retext-readability",
+      "ruleId": "readability"
+    },
+    {
+      "source": "retext-readability",
+      "ruleId": "readability"
+    },
+    {
+      "source": "retext-readability",
+      "ruleId": "readability"
+    },
+    {
+      "source": "retext-readability",
+      "ruleId": "readability"
+    },
+    {
+      "source": "retext-readability",
+      "ruleId": "readability"
+    },
+    {
+      "source": "retext-readability",
+      "ruleId": "readability"
+    },
+    {
+      "source": "retext-readability",
+      "ruleId": "readability"
+    },
+    {
+      "source": "retext-simplify",
+      "ruleId": "remain"
+    },
+    {
+      "source": "retext-simplify",
+      "ruleId": "type"
+    },
+    {
+      "source": "retext-simplify",
+      "ruleId": "on-the-contrary"
+    },
+    {
+      "source": "retext-simplify",
+      "ruleId": "there-is"
+    },
+    {
+      "source": "retext-simplify",
+      "ruleId": "ensure"
+    },
+    {
+      "source": "retext-simplify",
+      "ruleId": "immediately"
+    },
+    {
+      "source": "retext-simplify",
+      "ruleId": "it-is"
+    },
+    {
+      "source": "retext-simplify",
+      "ruleId": "in-order-to"
+    },
+    {
+      "source": "retext-simplify",
+      "ruleId": "it-is"
+    },
+    {
+      "source": "retext-simplify",
+      "ruleId": "very"
+    }
+  ]
+}
