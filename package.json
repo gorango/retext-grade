@@ -1,6 +1,6 @@
 {
   "name": "retext-grade",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Text-grading algorithm combining various unified utils",
   "main": "src/index.js",
   "repository": "https://github.com/gorango/rehype-extract-article",
