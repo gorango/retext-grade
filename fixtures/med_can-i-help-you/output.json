@@ -275,6 +275,7 @@
         "dreams",
         "dream"
       ],
+      "count": 14,
       "match": "dreams",
       "stem": "dream",
       "score": 1
@@ -284,6 +285,7 @@
         "It’s",
         "it’s"
       ],
+      "count": 7,
       "match": "it’s",
       "stem": "it’",
       "score": 0.5
@@ -293,6 +295,7 @@
         "Hippie",
         "hippie"
       ],
+      "count": 7,
       "match": "Hippie",
       "stem": "hippi",
       "score": 0.5
@@ -301,6 +304,7 @@
       "matches": [
         "life"
       ],
+      "count": 7,
       "match": "life",
       "stem": "life",
       "score": 0.5
@@ -310,6 +314,7 @@
         "book",
         "books"
       ],
+      "count": 6,
       "match": "book",
       "stem": "book",
       "score": 0.42857142857142855
@@ -318,6 +323,7 @@
       "matches": [
         "time"
       ],
+      "count": 6,
       "match": "time",
       "stem": "time",
       "score": 0.42857142857142855
@@ -327,6 +333,7 @@
         "flights",
         "flight"
       ],
+      "count": 5,
       "match": "flight",
       "stem": "flight",
       "score": 0.35714285714285715
@@ -336,6 +343,7 @@
         "Tea",
         "tea"
       ],
+      "count": 5,
       "match": "tea",
       "stem": "tea",
       "score": 0.35714285714285715
@@ -345,6 +353,7 @@
         "experience",
         "experiment"
       ],
+      "count": 5,
       "match": "experience",
       "stem": "experi",
       "score": 0.35714285714285715
@@ -354,6 +363,7 @@
         "words",
         "word"
       ],
+      "count": 5,
       "match": "words",
       "stem": "word",
       "score": 0.35714285714285715

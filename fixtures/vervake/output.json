@@ -76,6 +76,7 @@
       "matches": [
         "relevance"
       ],
+      "count": 5,
       "match": "relevance",
       "stem": "relev",
       "score": 1
@@ -85,6 +86,7 @@
         "naturalism",
         "nature"
       ],
+      "count": 4,
       "match": "naturalism",
       "stem": "natur",
       "score": 0.8
@@ -93,6 +95,7 @@
       "matches": [
         "cognition"
       ],
+      "count": 4,
       "match": "cognition",
       "stem": "cognit",
       "score": 0.8
@@ -102,6 +105,7 @@
         "attempts",
         "attempt"
       ],
+      "count": 4,
       "match": "attempts",
       "stem": "attempt",
       "score": 0.8
@@ -111,6 +115,7 @@
         "problems",
         "problem"
       ],
+      "count": 4,
       "match": "problems",
       "stem": "problem",
       "score": 0.8
@@ -119,6 +124,7 @@
       "matches": [
         "thesis"
       ],
+      "count": 3,
       "match": "thesis",
       "stem": "thesi",
       "score": 0.6
@@ -127,6 +133,7 @@
       "matches": [
         "two"
       ],
+      "count": 3,
       "match": "two",
       "stem": "two",
       "score": 0.6
@@ -136,6 +143,7 @@
         "notions",
         "notion"
       ],
+      "count": 3,
       "match": "notions",
       "stem": "notion",
       "score": 0.6
@@ -144,6 +152,7 @@
       "matches": [
         "representation"
       ],
+      "count": 3,
       "match": "representation",
       "stem": "represent",
       "score": 0.6
@@ -152,6 +161,7 @@
       "matches": [
         "interdependence"
       ],
+      "count": 3,
       "match": "interdependence",
       "stem": "interdepend",
       "score": 0.6

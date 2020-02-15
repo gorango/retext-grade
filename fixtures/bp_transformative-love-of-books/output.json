@@ -99,6 +99,7 @@
         "library",
         "libraries"
       ],
+      "count": 15,
       "match": "library",
       "stem": "librari",
       "score": 1
@@ -109,6 +110,7 @@
         "books",
         "book"
       ],
+      "count": 14,
       "match": "books",
       "stem": "book",
       "score": 0.9333333333333333
@@ -117,6 +119,7 @@
       "matches": [
         "Smith"
       ],
+      "count": 5,
       "match": "Smith",
       "stem": "smith",
       "score": 0.3333333333333333
@@ -125,6 +128,7 @@
       "matches": [
         "life"
       ],
+      "count": 4,
       "match": "life",
       "stem": "life",
       "score": 0.26666666666666666
@@ -133,6 +137,7 @@
       "matches": [
         "way"
       ],
+      "count": 4,
       "match": "way",
       "stem": "wai",
       "score": 0.26666666666666666
@@ -142,6 +147,7 @@
         "one",
         "One"
       ],
+      "count": 4,
       "match": "one",
       "stem": "on",
       "score": 0.26666666666666666
@@ -150,6 +156,7 @@
       "matches": [
         "time"
       ],
+      "count": 4,
       "match": "time",
       "stem": "time",
       "score": 0.26666666666666666
@@ -158,6 +165,7 @@
       "matches": [
         "Patti"
       ],
+      "count": 3,
       "match": "Patti",
       "stem": "patti",
       "score": 0.2

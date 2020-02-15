@@ -398,6 +398,7 @@
         "Life",
         "life"
       ],
+      "count": 16,
       "match": "life",
       "stem": "life",
       "score": 1
@@ -406,6 +407,7 @@
       "matches": [
         "people"
       ],
+      "count": 15,
       "match": "people",
       "stem": "peopl",
       "score": 0.9375
@@ -415,6 +417,7 @@
         "it’s",
         "It’s"
       ],
+      "count": 15,
       "match": "it’s",
       "stem": "it’",
       "score": 0.9375
@@ -424,6 +427,7 @@
         "American",
         "Americans"
       ],
+      "count": 13,
       "match": "American",
       "stem": "american",
       "score": 0.8125
@@ -433,6 +437,7 @@
         "you’re",
         "You’re"
       ],
+      "count": 11,
       "match": "you’re",
       "stem": "you’r",
       "score": 0.6875
@@ -441,6 +446,7 @@
       "matches": [
         "culture"
       ],
+      "count": 9,
       "match": "culture",
       "stem": "cultur",
       "score": 0.5625
@@ -451,6 +457,7 @@
         "Times",
         "times"
       ],
+      "count": 7,
       "match": "time",
       "stem": "time",
       "score": 0.4375
@@ -460,6 +467,7 @@
         "ways",
         "way"
       ],
+      "count": 6,
       "match": "way",
       "stem": "wai",
       "score": 0.375
@@ -468,6 +476,7 @@
       "matches": [
         "society"
       ],
+      "count": 6,
       "match": "society",
       "stem": "societi",
       "score": 0.375
@@ -476,6 +485,7 @@
       "matches": [
         "nature"
       ],
+      "count": 6,
       "match": "nature",
       "stem": "natur",
       "score": 0.375

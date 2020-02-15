@@ -531,6 +531,7 @@
         "algorithm",
         "algorithms"
       ],
+      "count": 46,
       "match": "algorithm",
       "stem": "algorithm",
       "score": 1
@@ -542,6 +543,7 @@
         "government",
         "Governments"
       ],
+      "count": 19,
       "match": "government",
       "stem": "govern",
       "score": 0.41304347826086957
@@ -553,6 +555,7 @@
         "System",
         "Systems"
       ],
+      "count": 17,
       "match": "system",
       "stem": "system",
       "score": 0.3695652173913043
@@ -561,6 +564,7 @@
       "matches": [
         "probation"
       ],
+      "count": 16,
       "match": "probation",
       "stem": "probat",
       "score": 0.34782608695652173
@@ -571,6 +575,7 @@
         "risks",
         "Risk"
       ],
+      "count": 16,
       "match": "risk",
       "stem": "risk",
       "score": 0.34782608695652173
@@ -580,6 +585,7 @@
         "Philadelphia",
         "PHILADELPHIA"
       ],
+      "count": 14,
       "match": "Philadelphia",
       "stem": "philadelphia",
       "score": 0.30434782608695654
@@ -588,6 +594,7 @@
       "matches": [
         "Gates"
       ],
+      "count": 12,
       "match": "Gates",
       "stem": "gate",
       "score": 0.2608695652173913
@@ -596,6 +603,7 @@
       "matches": [
         "people"
       ],
+      "count": 12,
       "match": "people",
       "stem": "peopl",
       "score": 0.2608695652173913
@@ -607,6 +615,7 @@
         "states",
         "State"
       ],
+      "count": 12,
       "match": "state",
       "stem": "state",
       "score": 0.2608695652173913
@@ -616,6 +625,7 @@
         "decisions",
         "decision"
       ],
+      "count": 12,
       "match": "decisions",
       "stem": "decis",
       "score": 0.2608695652173913
@@ -625,6 +635,7 @@
         "data",
         "Data"
       ],
+      "count": 12,
       "match": "data",
       "stem": "data",
       "score": 0.2608695652173913

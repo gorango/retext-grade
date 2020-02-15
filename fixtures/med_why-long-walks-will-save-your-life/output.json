@@ -217,6 +217,7 @@
       "matches": [
         "village"
       ],
+      "count": 10,
       "match": "village",
       "stem": "villag",
       "score": 1
@@ -227,6 +228,7 @@
         "tree",
         "Trees"
       ],
+      "count": 10,
       "match": "trees",
       "stem": "tree",
       "score": 1
@@ -236,6 +238,7 @@
         "landscape",
         "landscapes"
       ],
+      "count": 8,
       "match": "landscape",
       "stem": "landscap",
       "score": 0.8
@@ -244,6 +247,7 @@
       "matches": [
         "woodlands"
       ],
+      "count": 7,
       "match": "woodlands",
       "stem": "woodland",
       "score": 0.7
@@ -253,6 +257,7 @@
         "Life",
         "life"
       ],
+      "count": 6,
       "match": "life",
       "stem": "life",
       "score": 0.6
@@ -261,6 +266,7 @@
       "matches": [
         "mind"
       ],
+      "count": 6,
       "match": "mind",
       "stem": "mind",
       "score": 0.6
@@ -271,6 +277,7 @@
         "day",
         "days"
       ],
+      "count": 5,
       "match": "day",
       "stem": "dai",
       "score": 0.5
@@ -279,6 +286,7 @@
       "matches": [
         "body"
       ],
+      "count": 5,
       "match": "body",
       "stem": "bodi",
       "score": 0.5

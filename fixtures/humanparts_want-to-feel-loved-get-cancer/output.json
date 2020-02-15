@@ -401,6 +401,7 @@
         "Cancer",
         "cancer"
       ],
+      "count": 14,
       "match": "cancer",
       "stem": "cancer",
       "score": 1
@@ -410,6 +411,7 @@
         "don’t",
         "Don’t"
       ],
+      "count": 12,
       "match": "don’t",
       "stem": "don’t",
       "score": 0.8571428571428571
@@ -419,6 +421,7 @@
         "days",
         "day"
       ],
+      "count": 12,
       "match": "days",
       "stem": "dai",
       "score": 0.8571428571428571
@@ -428,6 +431,7 @@
         "people",
         "People"
       ],
+      "count": 8,
       "match": "people",
       "stem": "peopl",
       "score": 0.5714285714285714
@@ -437,6 +441,7 @@
         "Love",
         "love"
       ],
+      "count": 8,
       "match": "love",
       "stem": "love",
       "score": 0.5714285714285714
@@ -445,6 +450,7 @@
       "matches": [
         "can’t"
       ],
+      "count": 8,
       "match": "can’t",
       "stem": "can’t",
       "score": 0.5714285714285714
@@ -453,6 +459,7 @@
       "matches": [
         "care"
       ],
+      "count": 7,
       "match": "care",
       "stem": "care",
       "score": 0.5
@@ -461,6 +468,7 @@
       "matches": [
         "right"
       ],
+      "count": 6,
       "match": "right",
       "stem": "right",
       "score": 0.42857142857142855

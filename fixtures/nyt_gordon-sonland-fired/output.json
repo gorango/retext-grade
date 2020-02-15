@@ -277,6 +277,7 @@
       "matches": [
         "House"
       ],
+      "count": 21,
       "match": "House",
       "stem": "hous",
       "score": 1
@@ -285,6 +286,7 @@
       "matches": [
         "Trump"
       ],
+      "count": 17,
       "match": "Trump",
       "stem": "trump",
       "score": 0.8095238095238095
@@ -294,6 +296,7 @@
         "Impeachment",
         "impeachment"
       ],
+      "count": 17,
       "match": "impeachment",
       "stem": "impeach",
       "score": 0.8095238095238095
@@ -303,6 +306,7 @@
         "Vindman",
         "Vindmans"
       ],
+      "count": 17,
       "match": "Vindman",
       "stem": "vindman",
       "score": 0.8095238095238095
@@ -312,6 +316,7 @@
         "president",
         "President"
       ],
+      "count": 16,
       "match": "president",
       "stem": "presid",
       "score": 0.7619047619047619
@@ -320,6 +325,7 @@
       "matches": [
         "White"
       ],
+      "count": 14,
       "match": "White",
       "stem": "white",
       "score": 0.6666666666666666
@@ -329,6 +335,7 @@
         "Colonel",
         "colonel"
       ],
+      "count": 13,
       "match": "Colonel",
       "stem": "colonel",
       "score": 0.6190476190476191
@@ -337,6 +344,7 @@
       "matches": [
         "Sondland"
       ],
+      "count": 12,
       "match": "Sondland",
       "stem": "sondland",
       "score": 0.5714285714285714
